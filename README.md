@@ -6,23 +6,30 @@
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
 * [williamchart](https://github.com/diogobernardino/williamchart) - Android Library to rapidly develop attractive and insightful charts in android applications.
 * [Compressor](https://github.com/zetbaitsu/Compressor) - An android image compression library.
+* [Croppy](https://github.com/lyrebirdstudio/Croppy) - Image Cropping Library for Android.
 * [CarouselRecyclerview](https://github.com/sparrow007/CarouselRecyclerview) - Carousel Recyclerview let's you create carousel layout with the power of recyclerview by creating custom layout manager.
 * [ZXing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android.
 * [HTextView](https://github.com/hanks-zyh/HTextView) - Animation effects to text, not really textview.
 * [ExpansionPanel](https://github.com/florent37/ExpansionPanel) - Android - Expansion panels contain creation flows and allow lightweight editing of an element.
 * [VideoLayout](https://github.com/AsynctaskCoffee/VideoLayout) - To play video on layout background (textureview videoview for layout designs).
 * [PDFCreatorAndroid](https://github.com/tejpratap46/PDFCreatorAndroid) - Simple library to generate and view PDF in Android.
+* [kotlin-csv](https://github.com/doyaaaaaken/kotlin-csv) - Pure Kotlin CSV Reader/Writer.
 * [sqldelight](https://github.com/cashapp/sqldelight) - SQLDelight - Generates typesafe Kotlin APIs from SQL.
 * [android-snowfall](https://github.com/JetradarMobile/android-snowfall) - Fully customizable implementation of "Snowfall View" on Android.
 * [input-mask](https://github.com/RedMadRobot/input-mask-android) - User input masking library repo.
 * [LightCalendarView](https://github.com/recruit-mp/LightCalendarView) - A lightweight monthly calendar view for Android, fully written in Kotlin. Designed to meet the minimum demands for typical calendars.
+* [CalendarView](vhttps://github.com/kizitonwose/CalendarView) - A highly customizable calendar library for Android, powered by RecyclerView.
 * [animated-clock-icon](https://github.com/alxrm/animated-clock-icon) - Easy-to-use animated clock icon for Android.
 * [ViewAnimator](https://github.com/florent37/ViewAnimator) - A fluent Android animation library.
 * [flexbox-layout](https://github.com/google/flexbox-layout) - Flexbox for Android.
 * [Konfetti](https://github.com/DanielMartinus/Konfetti) - Celebrate more with this lightweight confetti particle system 🎊.
 * [Blur-LIB-Android](https://github.com/danielzeller/Blur-LIB-Android) - Blur layout.
 * [MetaBalls-LIB-Android](https://github.com/danielzeller/MetaBalls-LIB-Android) - A library that simulates a liquid effect for various UI widgets.
-
+* [dotsindicator](https://github.com/tommybuonomo/dotsindicator) - Three material Dots Indicators for view pagers in Android.
+* [IndicatorFastScroll](https://github.com/reddit/IndicatorFastScroll) - Android library providing a simple UI control for scrolling through RecyclerViews.
+* [Spotlight](https://github.com/TakuSemba/Spotlight) - Android Library that lights items for tutorials or walk-throughs etc...
+* [vvalidator](https://github.com/afollestad/vvalidator) - 🤖 An easy to use form validator for Kotlin & Android.
+ 
 ## Android samples
 
 ### Kotlin
@@ -33,6 +40,7 @@
 * [Auxio](https://github.com/OxygenCobalt/Auxio) - A simple, rational music player for android.
 * [AnimatedBottomSheet](https://github.com/goldenluk/AnimatedBottomSheet) - BottomSheet sticky button.
 * [material-components-android-examples](https://github.com/material-components/material-components-android-examples) - Companion example apps and code for MDC-Android.
+* [qksms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger for Android.
 
 ### Java
 * [quran_android](https://github.com/quran/quran_android) - Quran reading application for android.
