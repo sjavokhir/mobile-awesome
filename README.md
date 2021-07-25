@@ -2,7 +2,6 @@
 *Most useful libraries, samples, books and other resources.*
 
 ## Android libraries
-
 * [kotlinx-datetime](https://github.com/Kotlin/kotlinx-datetime) - KotlinX multiplatform date/time library.
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
 * [williamchart](https://github.com/diogobernardino/williamchart) - Android Library to rapidly develop attractive and insightful charts in android applications.
@@ -18,21 +17,43 @@
 * [input-mask](https://github.com/RedMadRobot/input-mask-android) - User input masking library repo.
 * [LightCalendarView](https://github.com/recruit-mp/LightCalendarView) - A lightweight monthly calendar view for Android, fully written in Kotlin. Designed to meet the minimum demands for typical calendars.
 * [animated-clock-icon](https://github.com/alxrm/animated-clock-icon) - Easy-to-use animated clock icon for Android.
+* [ViewAnimator](https://github.com/florent37/ViewAnimator) - A fluent Android animation library.
+* [flexbox-layout](https://github.com/google/flexbox-layout) - Flexbox for Android.
+* [Konfetti](https://github.com/DanielMartinus/Konfetti) - Celebrate more with this lightweight confetti particle system 🎊.
+* [Blur-LIB-Android](https://github.com/danielzeller/Blur-LIB-Android) - Blur layout.
+* [MetaBalls-LIB-Android](https://github.com/danielzeller/MetaBalls-LIB-Android) - A library that simulates a liquid effect for various UI widgets.
 
 ## Android samples
 
 ### Kotlin
+* [architecture-components-samples](https://github.com/android/architecture-components-samples) - Samples for Android Architecture Components.
 * [KAHelpers](https://github.com/FunkyMuse/KAHelpers) - Kotlin Extensions (Android extensions) and Helpers for smoother Android development.
 * [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) - A simple calendar with events, customizable widgets and no ads.
 * [NotyKT](https://github.com/PatilShreyas/NotyKT) - 📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.
 * [Auxio](https://github.com/OxygenCobalt/Auxio) - A simple, rational music player for android.
 * [AnimatedBottomSheet](https://github.com/goldenluk/AnimatedBottomSheet) - BottomSheet sticky button.
+* [material-components-android-examples](https://github.com/material-components/material-components-android-examples) - Companion example apps and code for MDC-Android.
 
 ### Java
+* [quran_android](https://github.com/quran/quran_android) - Quran reading application for android.
+* [Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source.
+* [StarWars](https://github.com/Yalantis/StarWars.Android) - This component implements transition animation to crumble view into tiny pieces.
 * [Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar.
 
 ### Jetpack Compose
 * [compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
+
+## iOS libraries
+* [liquid-swipe](https://github.com/Cuberto/liquid-swipe) - Swipe animation by Cuberto.
+* [gooey-cell](https://github.com/Cuberto/gooey-cell) - Remove cell animation by Cuberto.
+* [rubber-range-picker](https://github.com/Cuberto/rubber-range-picker) - Double range picker by Cuberto.
+* [rate-it](https://github.com/Cuberto/rate-it) - Face rate animation by Cuberto.
+
+## iOS samples
+
+### SwiftUI
+* [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) - SwiftUI & Combine app using MovieDB API. With a custom Flux (Redux) implementation.
+* [CoronaVirusTrackerSwiftUI](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI) - Corona Virus Tracker & Advices iOS App with SwiftUI.
 
 ## Resources
 * [android-best-practices](https://github.com/futurice/android-best-practices) - Do's and Don'ts for Android development, by Futurice developers.
