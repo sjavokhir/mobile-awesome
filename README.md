@@ -1,6 +1,17 @@
 # Useful resources
 *Most useful libraries, samples, books and other resources.*
 
+### Content
+- [Android libraries](#android-libraries)
+- [Android samples](#android-samples)
+    - [Kotlin](#kotlin)
+    - [Java](#java)
+    - [Jetpack Compose](#jetpack-compose)
+- [iOS libraries](#ios-libraries)
+- [iOS samples](#ios-samples)
+    - [SwiftUI](#swiftui)
+- [Resources](#resources)
+
 ## Android libraries
 * [kotlinx-datetime](https://github.com/Kotlin/kotlinx-datetime) - KotlinX multiplatform date/time library.
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
