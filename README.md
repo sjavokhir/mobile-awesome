@@ -62,23 +62,13 @@
 ### Jetpack Compose
 * [compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
 
-## iOS libraries
-* [liquid-swipe](https://github.com/Cuberto/liquid-swipe) - Swipe animation by Cuberto.
-* [gooey-cell](https://github.com/Cuberto/gooey-cell) - Remove cell animation by Cuberto.
-* [rubber-range-picker](https://github.com/Cuberto/rubber-range-picker) - Double range picker by Cuberto.
-* [rate-it](https://github.com/Cuberto/rate-it) - Face rate animation by Cuberto.
-
-## iOS samples
-
-### SwiftUI
-* [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) - SwiftUI & Combine app using MovieDB API. With a custom Flux (Redux) implementation.
-* [CoronaVirusTrackerSwiftUI](https://github.com/alfianlosari/CoronaVirusTrackerSwiftUI) - Corona Virus Tracker & Advices iOS App with SwiftUI.
+### KMM
+* [KaMPKit](https://github.com/touchlab/KaMPKit) - KaMP Kit by Touchlab is a collection of code and tools designed to get your mobile team started quickly with Kotlin Multiplatform.
 
 ## Resources
 * [android-best-practices](https://github.com/futurice/android-best-practices) - Do's and Don'ts for Android development, by Futurice developers.
 * [awesome-kotlin](https://github.com/mcxiaoke/awesome-kotlin) - A curated list of awesome Kotlin frameworks, libraries, documents and other resources.
 * [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook) - A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential.
-* [awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects.
 * [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs.
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - 📚 Freely available programming books.
 * [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
