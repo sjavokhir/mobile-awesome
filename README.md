@@ -40,6 +40,7 @@
 * [IndicatorFastScroll](https://github.com/reddit/IndicatorFastScroll) - Android library providing a simple UI control for scrolling through RecyclerViews.
 * [Spotlight](https://github.com/TakuSemba/Spotlight) - Android Library that lights items for tutorials or walk-throughs etc...
 * [vvalidator](https://github.com/afollestad/vvalidator) - 🤖 An easy to use form validator for Kotlin & Android.
+* [Android-SpinKit](https://github.com/ybq/Android-SpinKit) - Android loading animations.
  
 ## Android samples
 
