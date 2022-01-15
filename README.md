@@ -2,7 +2,9 @@
 *Most useful libraries, samples, books and other resources.*
 
 ### Content
-- [Android libraries](#android-libraries)
+- [Libraries](#libraries)
+    - [Android libraries](#android-libraries) 
+    - [Jetpack Compose libraries](#jetpack-compose-libraries) 
 - [Android samples](#android-samples)
     - [Kotlin](#kotlin)
     - [Java](#java)
@@ -11,7 +13,9 @@
     - [KMM](#kmm)
 - [Resources](#resources)
 
-## Android libraries
+##  Libraries
+
+### Android libraries
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
 * [williamchart](https://github.com/diogobernardino/williamchart) - Android Library to rapidly develop attractive and insightful charts in android applications.
 * [Compressor](https://github.com/zetbaitsu/Compressor) - An android image compression library.
@@ -33,8 +37,15 @@
 * [TimelineView](https://github.com/akri16/TimelineView) - A TimelineView that will help you create event timelines in apps just like the Google Calendar DayView.
 * [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) - An Android Animation library which easily add itemanimator to RecyclerView items.
 * [PhotoView](https://github.com/Baseflow/PhotoView) - Implementation of ImageView for Android that supports zooming, by various touch gestures.
-* [Localization](https://github.com/akexorcist/Localization) - [Android] In-app language changing library.
- 
+* [Localization](https://github.com/akexorcist/Localization) - [Android] In-app language changing library. 
+
+### Jetpack Compose libraries
+* [accompanist](https://github.com/google/accompanist) - A collection of extension libraries for Jetpack Compose.
+* [snapper](https://github.com/chrisbanes/snapper) - A snapping fling behavior for Jetpack Compose.
+* [Zoomable](https://github.com/mxalbert1996/Zoomable) - Content zooming with dragging, double tap and dismiss gesture support for Jetpack Compose.
+* [Landscapist](https://github.com/skydoves/Landscapist) - 🍂 Jetpack Compose image loading library that fetches and displays network images with Glide, Coil, and Fresco.
+* [waves-timer-animation](https://github.com/manueldidonna/waves-timer-animation) - A relaxing waves animation built with Jetpack Compose.
+
 ## Android samples
 
 ### Kotlin
@@ -50,6 +61,8 @@
 * [Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar.
 
 ### Jetpack Compose
+* [compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
+* [jetpack-compose-awesome](https://github.com/jetpack-compose/jetpack-compose-awesome) - 📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources.
 * [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook) - A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential.
 * [NotyKT](https://github.com/PatilShreyas/NotyKT) - 📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.
 * [JetComposer](https://github.com/prafullmishra/JetComposer) - Collection of UIs and Animations built with Jetpack Compose for Android.
