@@ -51,12 +51,17 @@
 ### Kotlin
 * [tivi](https://github.com/chrisbanes/tivi) - Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
 * [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) - A simple calendar with events, customizable widgets and no ads.
+* [Simple-Voice-Recorder](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) - An easy way of recording any discussion or sounds without ads or internet access.
+* [Simple-Music-Player](https://github.com/SimpleMobileTools/Simple-Music-Player) - A clean music player with a customizable widget, stylish interface and no ads.
+* [Simple-Clock](https://github.com/SimpleMobileTools/Simple-Clock-Abandoned) - Combination of a beautiful clock with widget, alarm, stopwatch & timer, no ads.
+* [Simple-Draw](https://github.com/SimpleMobileTools/Simple-Draw) - A canvas you can draw on with different colors.
 * [Auxio](https://github.com/OxygenCobalt/Auxio) - A simple, rational music player for android.
 * [qksms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger for Android.
 * [awesome-readium](https://github.com/readium/awesome-readium) - ⭐️ Awesome Readium-related resources.
 * [AudioRecorderView](https://github.com/Tougee/AudioRecorderView) - Simple Audio Recorder View with 'swap-to-cancel' Like Telegram.
 
 ### Java
+* [quran-android](https://github.com/quran/quran_android) - A Quran reading application for android.
 * [StarWars](https://github.com/Yalantis/StarWars.Android) - This component implements transition animation to crumble view into tiny pieces.
 * [Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar.
 
@@ -79,3 +84,4 @@
 ## Resources
 * [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs.
 * [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+* [SimpleMobileTools](https://github.com/SimpleMobileTools) - A group of simple, open source Android apps without ads and unnecessary permissions, with customizable widgets.
