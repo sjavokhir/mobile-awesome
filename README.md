@@ -7,8 +7,6 @@
     - [Kotlin](#kotlin)
     - [Java](#java)
     - [Jetpack Compose](#jetpack-compose)
-- [iOS samples](#ios-samples)
-    - [SwiftUI](#swiftui)
 - [Multiplatform samples](#multiplatform-samples)
     - [KMM](#kmm)
 - [Resources](#resources)
@@ -30,14 +28,22 @@
 * [Spotlight](https://github.com/TakuSemba/Spotlight) - Android Library that lights items for tutorials or walk-throughs etc...
 * [Android-SpinKit](https://github.com/ybq/Android-SpinKit) - Android loading animations.
 * [RxDownloader](https://github.com/ssseasonnn/RxDownload) - A multi-threaded download tool written with RxJava and Kotlin.
+* [DownloadX](https://github.com/ssseasonnn/DownloadX) - Download tool based on kotlin and coroutine.
+* [Fetch](https://github.com/tonyofrancis/Fetch) - The best file downloader library for Android.
+* [TimelineView](https://github.com/akri16/TimelineView) - A TimelineView that will help you create event timelines in apps just like the Google Calendar DayView.
+* [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) - An Android Animation library which easily add itemanimator to RecyclerView items.
+* [PhotoView](https://github.com/Baseflow/PhotoView) - Implementation of ImageView for Android that supports zooming, by various touch gestures.
+* [Localization](https://github.com/akexorcist/Localization) - [Android] In-app language changing library.
  
 ## Android samples
 
 ### Kotlin
+* [tivi](https://github.com/chrisbanes/tivi) - Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
 * [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) - A simple calendar with events, customizable widgets and no ads.
 * [Auxio](https://github.com/OxygenCobalt/Auxio) - A simple, rational music player for android.
 * [qksms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger for Android.
 * [awesome-readium](https://github.com/readium/awesome-readium) - ⭐️ Awesome Readium-related resources.
+* [AudioRecorderView](https://github.com/Tougee/AudioRecorderView) - Simple Audio Recorder View with 'swap-to-cancel' Like Telegram.
 
 ### Java
 * [StarWars](https://github.com/Yalantis/StarWars.Android) - This component implements transition animation to crumble view into tiny pieces.
@@ -45,20 +51,15 @@
 
 ### Jetpack Compose
 * [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook) - A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential.
-* [compose-jb](https://github.com/JetBrains/compose-jb) - Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-* [tivi](https://github.com/chrisbanes/tivi) - Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
 * [NotyKT](https://github.com/PatilShreyas/NotyKT) - 📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.
 * [JetComposer](https://github.com/prafullmishra/JetComposer) - Collection of UIs and Animations built with Jetpack Compose for Android.
 * [Instant](https://github.com/EBfVince/Instant) - ✨ Social network app made with Android Compose, full Kotlin, Firebase Authentication, Storage and Firestore 🚀.
 
-## iOS samples
-
-### SwiftUI
-* [Linkedin-UI-SwiftUI](https://github.com/MilanGotti/Linkedin-UI-SwiftUI) - Linkedin UI design with custom bottom sheet usign SwiftUI framework.
-
 ## Multiplatform samples
 
 ### KMM
+* [compose-jb](https://github.com/JetBrains/compose-jb) - Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+* [kmm-awesome](https://github.com/terrakok/kmm-awesome) - An awesome list that curates the best KMM libraries, tools and more.
 * [KaMPKit](https://github.com/touchlab/KaMPKit) - KaMP Kit by Touchlab is a collection of code and tools designed to get your mobile team started quickly with Kotlin Multiplatform.
 * [MoneyFlow](https://github.com/prof18/MoneyFlow) - A money management app wrote with Kotlin Multiplatform, Jetpack Compose and Swift UI.
 
