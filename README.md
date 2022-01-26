@@ -37,7 +37,9 @@
 * [TimelineView](https://github.com/akri16/TimelineView) - A TimelineView that will help you create event timelines in apps just like the Google Calendar DayView.
 * [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) - An Android Animation library which easily add itemanimator to RecyclerView items.
 * [PhotoView](https://github.com/Baseflow/PhotoView) - Implementation of ImageView for Android that supports zooming, by various touch gestures.
-* [Localization](https://github.com/akexorcist/Localization) - [Android] In-app language changing library. 
+* [Localization](https://github.com/akexorcist/Localization) - [Android] In-app language changing library.
+* [chucker](https://github.com/ChuckerTeam/chucker) - 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device).
+* [epoxy](https://github.com/airbnb/epoxy) - Epoxy is an Android library for building complex screens in a RecyclerView.
 
 ### Jetpack Compose libraries
 * [accompanist](https://github.com/google/accompanist) - A collection of extension libraries for Jetpack Compose.
@@ -45,6 +47,7 @@
 * [Zoomable](https://github.com/mxalbert1996/Zoomable) - Content zooming with dragging, double tap and dismiss gesture support for Jetpack Compose.
 * [Landscapist](https://github.com/skydoves/Landscapist) - 🍂 Jetpack Compose image loading library that fetches and displays network images with Glide, Coil, and Fresco.
 * [waves-timer-animation](https://github.com/manueldidonna/waves-timer-animation) - A relaxing waves animation built with Jetpack Compose.
+* [compose-destinations](https://github.com/raamcosta/compose-destinations) - Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.
 
 ## Android samples
 
@@ -59,6 +62,7 @@
 * [qksms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger for Android.
 * [awesome-readium](https://github.com/readium/awesome-readium) - ⭐️ Awesome Readium-related resources.
 * [AudioRecorderView](https://github.com/Tougee/AudioRecorderView) - Simple Audio Recorder View with 'swap-to-cancel' Like Telegram.
+* [KAHelpers](https://github.com/FunkyMuse/KAHelpers) - Kotlin Extensions (Android extensions) and Helpers for smoother Android development.
 
 ### Java
 * [quran-android](https://github.com/quran/quran_android) - A Quran reading application for android.
@@ -72,6 +76,7 @@
 * [NotyKT](https://github.com/PatilShreyas/NotyKT) - 📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.
 * [JetComposer](https://github.com/prafullmishra/JetComposer) - Collection of UIs and Animations built with Jetpack Compose for Android.
 * [Instant](https://github.com/EBfVince/Instant) - ✨ Social network app made with Android Compose, full Kotlin, Firebase Authentication, Storage and Firestore 🚀.
+* [ComposeCalendar](https://github.com/boguszpawlowski/ComposeCalendar) - A Jetpack Compose library for handling calendar component rendering.
 
 ## Multiplatform samples
 
