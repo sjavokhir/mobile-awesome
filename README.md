@@ -48,6 +48,7 @@
 * [Landscapist](https://github.com/skydoves/Landscapist) - 🍂 Jetpack Compose image loading library that fetches and displays network images with Glide, Coil, and Fresco.
 * [waves-timer-animation](https://github.com/manueldidonna/waves-timer-animation) - A relaxing waves animation built with Jetpack Compose.
 * [compose-destinations](https://github.com/raamcosta/compose-destinations) - Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.
+* [android-maps-compose](https://github.com/googlemaps/android-maps-compose) - Jetpack Compose components for the Maps SDK for Android.
 
 ## Android samples
 
@@ -77,6 +78,11 @@
 * [JetComposer](https://github.com/prafullmishra/JetComposer) - Collection of UIs and Animations built with Jetpack Compose for Android.
 * [Instant](https://github.com/EBfVince/Instant) - ✨ Social network app made with Android Compose, full Kotlin, Firebase Authentication, Storage and Firestore 🚀.
 * [ComposeCalendar](https://github.com/boguszpawlowski/ComposeCalendar) - A Jetpack Compose library for handling calendar component rendering.
+* [Equalizer](https://github.com/glureau/Equalizer) - Jetpack Compose equalizer example (see article on glureau.com).
+* [Jetpack-compose-animations](https://github.com/canopas/Jetpack-compose-animations-examples) - Cool animations implemented with Jetpack compose.
+* [ComposeAnimations](https://github.com/antonshilov/ComposeAnimations) - Collection of nice animations created with Jetpack Compose.
+* [jetstore](https://github.com/pushpalroy/jetstore) - Clone of the Google Playstore app using Jetpack Compose.
+* [jetflix](https://github.com/pushpalroy/jetflix) - A movie exploring app by cloning the UI of Netflix android app built with Jetpack Compose.
 
 ## Multiplatform samples
 
@@ -84,9 +90,13 @@
 * [compose-jb](https://github.com/JetBrains/compose-jb) - Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 * [kmm-awesome](https://github.com/terrakok/kmm-awesome) - An awesome list that curates the best KMM libraries, tools and more.
 * [KaMPKit](https://github.com/touchlab/KaMPKit) - KaMP Kit by Touchlab is a collection of code and tools designed to get your mobile team started quickly with Kotlin Multiplatform.
+* [Lastik](https://github.com/hotmule/Lastik) - Kotlin Multiplatform + Jetpack Compose pet project, based on www.last.fm/api (in development).
 * [MoneyFlow](https://github.com/prof18/MoneyFlow) - A money management app wrote with Kotlin Multiplatform, Jetpack Compose and Swift UI.
 
 ## Resources
 * [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs.
 * [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 * [SimpleMobileTools](https://github.com/SimpleMobileTools) - A group of simple, open source Android apps without ads and unnecessary permissions, with customizable widgets.
+* [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+* [photon](https://github.com/komoot/photon) - An open source geocoder for openstreetmap data.
+* [app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - A simple web app to generate a generic privacy policy for your Android/iOS apps.
