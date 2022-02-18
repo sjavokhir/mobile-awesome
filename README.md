@@ -53,17 +53,14 @@
 ## Android samples
 
 ### Kotlin
-* [tivi](https://github.com/chrisbanes/tivi) - Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
 * [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) - A simple calendar with events, customizable widgets and no ads.
 * [Simple-Voice-Recorder](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) - An easy way of recording any discussion or sounds without ads or internet access.
 * [Simple-Music-Player](https://github.com/SimpleMobileTools/Simple-Music-Player) - A clean music player with a customizable widget, stylish interface and no ads.
 * [Simple-Clock](https://github.com/SimpleMobileTools/Simple-Clock-Abandoned) - Combination of a beautiful clock with widget, alarm, stopwatch & timer, no ads.
 * [Simple-Draw](https://github.com/SimpleMobileTools/Simple-Draw) - A canvas you can draw on with different colors.
 * [Auxio](https://github.com/OxygenCobalt/Auxio) - A simple, rational music player for android.
-* [qksms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger for Android.
 * [awesome-readium](https://github.com/readium/awesome-readium) - ⭐️ Awesome Readium-related resources.
 * [AudioRecorderView](https://github.com/Tougee/AudioRecorderView) - Simple Audio Recorder View with 'swap-to-cancel' Like Telegram.
-* [KAHelpers](https://github.com/FunkyMuse/KAHelpers) - Kotlin Extensions (Android extensions) and Helpers for smoother Android development.
 
 ### Java
 * [quran-android](https://github.com/quran/quran_android) - A Quran reading application for android.
@@ -71,10 +68,10 @@
 * [Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar.
 
 ### Jetpack Compose
+* [tivi](https://github.com/chrisbanes/tivi) - Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
 * [compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
 * [jetpack-compose-awesome](https://github.com/jetpack-compose/jetpack-compose-awesome) - 📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources.
 * [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook) - A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential.
-* [NotyKT](https://github.com/PatilShreyas/NotyKT) - 📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.
 * [JetComposer](https://github.com/prafullmishra/JetComposer) - Collection of UIs and Animations built with Jetpack Compose for Android.
 * [Instant](https://github.com/EBfVince/Instant) - ✨ Social network app made with Android Compose, full Kotlin, Firebase Authentication, Storage and Firestore 🚀.
 * [ComposeCalendar](https://github.com/boguszpawlowski/ComposeCalendar) - A Jetpack Compose library for handling calendar component rendering.
