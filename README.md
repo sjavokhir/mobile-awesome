@@ -40,6 +40,8 @@
 * [Localization](https://github.com/akexorcist/Localization) - [Android] In-app language changing library.
 * [chucker](https://github.com/ChuckerTeam/chucker) - 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device).
 * [epoxy](https://github.com/airbnb/epoxy) - Epoxy is an Android library for building complex screens in a RecyclerView.
+* [SleepTimePicker](https://github.com/AppSci/SleepTimePicker) - Beatiful time view.
+* [EitherNet](https://github.com/slackhq/EitherNet) - A pluggable sealed API result type for modeling Retrofit responses.
 
 ### Jetpack Compose libraries
 * [accompanist](https://github.com/google/accompanist) - A collection of extension libraries for Jetpack Compose.
@@ -49,6 +51,11 @@
 * [waves-timer-animation](https://github.com/manueldidonna/waves-timer-animation) - A relaxing waves animation built with Jetpack Compose.
 * [compose-destinations](https://github.com/raamcosta/compose-destinations) - Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.
 * [android-maps-compose](https://github.com/googlemaps/android-maps-compose) - Jetpack Compose components for the Maps SDK for Android.
+* [twyper](https://github.com/theapache64/twyper) - 🔥 Yet another Tinder like swipeable cards, built for Jetpack Compose.
+* [Flippable](https://github.com/wajahatkarim3/Flippable) - A Jetpack Compose library for animating a flip transition between the front and back of something, such as a card.
+* [voyager](https://github.com/adrielcafe/voyager) - 🛸 A pragmatic navigation library for Jetpack Compose.
+* [sketchbook](https://github.com/GetStream/sketchbook-compose) - 🎨 Jetpack Compose canvas library that helps you draw paths, images on canvas with color pickers and palettes.
+* [colorpicker](https://github.com/skydoves/colorpicker-compose) - 🎨 Jetpack Compose color picker library for getting colors from any images by tapping on the desired color.
 
 ## Android samples
 
@@ -91,6 +98,9 @@
 * [KaMPKit](https://github.com/touchlab/KaMPKit) - KaMP Kit by Touchlab is a collection of code and tools designed to get your mobile team started quickly with Kotlin Multiplatform.
 * [Lastik](https://github.com/hotmule/Lastik) - Kotlin Multiplatform + Jetpack Compose pet project, based on www.last.fm/api (in development).
 * [MoneyFlow](https://github.com/prof18/MoneyFlow) - A money management app wrote with Kotlin Multiplatform, Jetpack Compose and Swift UI.
+* [MVIKotlin](https://github.com/arkivanov/MVIKotlin) - Extendable MVI framework for Kotlin Multiplatform with powerful debugging tools (logging and time travel).
+* [Modo](https://github.com/terrakok/Modo) - Navigation library based on UDF principles.
+* [Reaktive](https://github.com/badoo/Reaktive) - Kotlin multi-platform implementation of Reactive Extensions.
 
 ## Resources
 * [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs.
