@@ -16,6 +16,7 @@
 ##  Libraries
 
 ### Android libraries
+* [MVICore](https://github.com/badoo/MVICore) - MVI framework with events, time-travel, and more.
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
 * [williamchart](https://github.com/diogobernardino/williamchart) - Android Library to rapidly develop attractive and insightful charts in android applications.
 * [Compressor](https://github.com/zetbaitsu/Compressor) - An android image compression library.
@@ -98,7 +99,7 @@
 * [KaMPKit](https://github.com/touchlab/KaMPKit) - KaMP Kit by Touchlab is a collection of code and tools designed to get your mobile team started quickly with Kotlin Multiplatform.
 * [Lastik](https://github.com/hotmule/Lastik) - Kotlin Multiplatform + Jetpack Compose pet project, based on www.last.fm/api (in development).
 * [MoneyFlow](https://github.com/prof18/MoneyFlow) - A money management app wrote with Kotlin Multiplatform, Jetpack Compose and Swift UI.
-* [MVIKotlin](https://github.com/arkivanov/MVIKotlin) - Extendable MVI framework for Kotlin Multiplatform with powerful debugging tools (logging and time travel).
+* [MVIKotlin](https://github.com/badoo/MVIKotlin) - Extendable MVI framework for Kotlin Multiplatform with powerful debugging tools (logging and time travel).
 * [Modo](https://github.com/terrakok/Modo) - Navigation library based on UDF principles.
 * [Reaktive](https://github.com/badoo/Reaktive) - Kotlin multi-platform implementation of Reactive Extensions.
 
