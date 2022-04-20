@@ -70,7 +70,6 @@
 * [Jetpack-Compose-Tutorials](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials) - 🚀🧨📝 Series of Tutorials to learn about Jetpack Compose with subjects Material Widgets, Layout, SubcomposeLayout, custom layouts, State, custom rememberable, recomposition, LaunchedEffect, side-effects, Gesture, Animation, Navigation, Canvas, UIs like whatsapp and others.
 * [Why-Not-Compose](https://github.com/ImaginativeShohag/Why-Not-Compose) - A collection of animations, compositions, UIs using Jetpack Compose. You can say Jetpack Compose cookbook or play-ground if you want!
 * [JetComposer](https://github.com/prafullmishra/JetComposer) - Collection of UIs and Animations built with Jetpack Compose for Android.
-* [Instant](https://github.com/EBfVince/Instant) - ✨ Social network app made with Android Compose, full Kotlin, Firebase Authentication, Storage and Firestore 🚀.
 * [ComposeCalendar](https://github.com/boguszpawlowski/ComposeCalendar) - A Jetpack Compose library for handling calendar component rendering.
 * [Equalizer](https://github.com/glureau/Equalizer) - Jetpack Compose equalizer example (see article on glureau.com).
 * [Jetpack-compose-animations](https://github.com/canopas/Jetpack-compose-animations-examples) - Cool animations implemented with Jetpack compose.
