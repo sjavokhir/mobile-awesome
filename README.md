@@ -7,10 +7,7 @@
     - [Jetpack Compose libraries](#jetpack-compose-libraries) 
 - [Android samples](#android-samples)
     - [Kotlin](#kotlin)
-    - [Java](#java)
     - [Jetpack Compose](#jetpack-compose)
-- [Multiplatform samples](#multiplatform-samples)
-    - [KMM](#kmm)
 - [Resources](#resources)
 
 ##  Libraries
@@ -70,11 +67,6 @@
 * [awesome-readium](https://github.com/readium/awesome-readium) - ⭐️ Awesome Readium-related resources.
 * [AudioRecorderView](https://github.com/Tougee/AudioRecorderView) - Simple Audio Recorder View with 'swap-to-cancel' Like Telegram.
 
-### Java
-* [quran-android](https://github.com/quran/quran_android) - A Quran reading application for android.
-* [StarWars](https://github.com/Yalantis/StarWars.Android) - This component implements transition animation to crumble view into tiny pieces.
-* [Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar.
-
 ### Jetpack Compose
 * [tivi](https://github.com/chrisbanes/tivi) - Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
 * [compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
@@ -91,22 +83,8 @@
 * [SocialNetworkTwitch](https://github.com/philipplackner/SocialNetworkTwitch) - Social network Twitch.
 * [CalorieTracker](https://github.com/philipplackner/CalorieTracker) - CalorieTracker app.
 
-## Multiplatform samples
-
-### KMM
-* [compose-jb](https://github.com/JetBrains/compose-jb) - Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-* [kmm-awesome](https://github.com/terrakok/kmm-awesome) - An awesome list that curates the best KMM libraries, tools and more.
-* [KaMPKit](https://github.com/touchlab/KaMPKit) - KaMP Kit by Touchlab is a collection of code and tools designed to get your mobile team started quickly with Kotlin Multiplatform.
-* [Lastik](https://github.com/hotmule/Lastik) - Kotlin Multiplatform + Jetpack Compose pet project, based on www.last.fm/api (in development).
-* [MoneyFlow](https://github.com/prof18/MoneyFlow) - A money management app wrote with Kotlin Multiplatform, Jetpack Compose and Swift UI.
-* [MVIKotlin](https://github.com/badoo/MVIKotlin) - Extendable MVI framework for Kotlin Multiplatform with powerful debugging tools (logging and time travel).
-* [Modo](https://github.com/terrakok/Modo) - Navigation library based on UDF principles.
-* [Reaktive](https://github.com/badoo/Reaktive) - Kotlin multi-platform implementation of Reactive Extensions.
-
 ## Resources
-* [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs.
 * [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 * [SimpleMobileTools](https://github.com/SimpleMobileTools) - A group of simple, open source Android apps without ads and unnecessary permissions, with customizable widgets.
 * [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-* [photon](https://github.com/komoot/photon) - An open source geocoder for openstreetmap data.
 * [app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - A simple web app to generate a generic privacy policy for your Android/iOS apps.
