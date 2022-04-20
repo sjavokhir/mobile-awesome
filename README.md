@@ -76,8 +76,6 @@
 * [ComposeAnimations](https://github.com/antonshilov/ComposeAnimations) - Collection of nice animations created with Jetpack Compose.
 * [jetstore](https://github.com/pushpalroy/jetstore) - Clone of the Google Playstore app using Jetpack Compose.
 * [jetflix](https://github.com/pushpalroy/jetflix) - A movie exploring app by cloning the UI of Netflix android app built with Jetpack Compose.
-* [SocialNetworkTwitch](https://github.com/philipplackner/SocialNetworkTwitch) - Social network Twitch.
-* [CalorieTracker](https://github.com/philipplackner/CalorieTracker) - CalorieTracker app.
 * [compose-particle-system](https://github.com/CuriousNikhil/compose-particle-system) - A lightweight particle system for Jetpack Compose - Quarks.
 
 ## Resources
