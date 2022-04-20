@@ -13,7 +13,6 @@
 ##  Libraries
 
 ### Android libraries
-* [MVICore](https://github.com/badoo/MVICore) - MVI framework with events, time-travel, and more.
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
 * [williamchart](https://github.com/diogobernardino/williamchart) - Android Library to rapidly develop attractive and insightful charts in android applications.
 * [Compressor](https://github.com/zetbaitsu/Compressor) - An android image compression library.
@@ -36,10 +35,7 @@
 * [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) - An Android Animation library which easily add itemanimator to RecyclerView items.
 * [PhotoView](https://github.com/Baseflow/PhotoView) - Implementation of ImageView for Android that supports zooming, by various touch gestures.
 * [Localization](https://github.com/akexorcist/Localization) - [Android] In-app language changing library.
-* [chucker](https://github.com/ChuckerTeam/chucker) - 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device).
-* [epoxy](https://github.com/airbnb/epoxy) - Epoxy is an Android library for building complex screens in a RecyclerView.
 * [SleepTimePicker](https://github.com/AppSci/SleepTimePicker) - Beatiful time view.
-* [EitherNet](https://github.com/slackhq/EitherNet) - A pluggable sealed API result type for modeling Retrofit responses.
 
 ### Jetpack Compose libraries
 * [accompanist](https://github.com/google/accompanist) - A collection of extension libraries for Jetpack Compose.
