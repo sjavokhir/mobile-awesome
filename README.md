@@ -51,6 +51,11 @@
 * [sketchbook](https://github.com/GetStream/sketchbook-compose) - 🎨 Jetpack Compose canvas library that helps you draw paths, images on canvas with color pickers and palettes.
 * [colorpicker](https://github.com/skydoves/colorpicker-compose) - 🎨 Jetpack Compose color picker library for getting colors from any images by tapping on the desired color.
 * [ExtendedSpans](https://github.com/saket/ExtendedSpans) - Squiggly underlines and rounded corners for text in Compose UI.
+* [charts](https://github.com/tehras/charts) - Simple Android compose charts.
+* [Orbitary](https://github.com/skydoves/Orbitary) - 🪐 Jetpack Compose animation library that allows you to implement animations such as shared element transition.
+* [SSJetPackComposeProgressButton](https://github.com/SimformSolutionsPvtLtd/SSJetPackComposeProgressButton) - SSJetPackComposeProgressButton is an elegant button with a different loading animations.
+* [SSJetpackComposeSwipeableView](https://github.com/SimformSolutionsPvtLtd/SSJetpackComposeSwipeableView) - SSJetpackComposeSwipeableView is a small library which provides support for the swipeable views. You can use this in your lazyColumns or can add a simple view which contains swipe to edit/delete functionality.
+* [compose-shimmer](https://github.com/ValeryPonomarenko/compose-shimmer) - Add a shimmer effect to the layout in Android Compose.
 
 ## Android samples
 
@@ -64,9 +69,12 @@
 ### Jetpack Compose
 * [tivi](https://github.com/chrisbanes/tivi) - Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
 * [compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
+* [animation-samples](https://github.com/android/animation-samples) - Multiple samples showing the best practices in animation on Android.
+* [nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose.
 * [jetpack-compose-awesome](https://github.com/jetpack-compose/jetpack-compose-awesome) - 📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources.
 * [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook) - A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential.
 * [Jetpack-Compose-Tutorials](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials) - 🚀🧨📝 Series of Tutorials to learn about Jetpack Compose with subjects Material Widgets, Layout, SubcomposeLayout, custom layouts, State, custom rememberable, recomposition, LaunchedEffect, side-effects, Gesture, Animation, Navigation, Canvas, UIs like whatsapp and others.
+* [Jetpack-Compose-Playground](https://github.com/Foso/Jetpack-Compose-Playground) - Community-driven collection of Jetpack Compose example code and tutorials 🚀
 * [Why-Not-Compose](https://github.com/ImaginativeShohag/Why-Not-Compose) - A collection of animations, compositions, UIs using Jetpack Compose. You can say Jetpack Compose cookbook or play-ground if you want!
 * [JetComposer](https://github.com/prafullmishra/JetComposer) - Collection of UIs and Animations built with Jetpack Compose for Android.
 * [ComposeCalendar](https://github.com/boguszpawlowski/ComposeCalendar) - A Jetpack Compose library for handling calendar component rendering.
@@ -76,6 +84,10 @@
 * [jetstore](https://github.com/pushpalroy/jetstore) - Clone of the Google Playstore app using Jetpack Compose.
 * [jetflix](https://github.com/pushpalroy/jetflix) - A movie exploring app by cloning the UI of Netflix android app built with Jetpack Compose.
 * [compose-particle-system](https://github.com/CuriousNikhil/compose-particle-system) - A lightweight particle system for Jetpack Compose - Quarks.
+* [SlackAndroidClone](https://github.com/Anmol92verma/SlackAndroidClone) - Slack android clone with Jetpack Compose!
+* [DiscordJetpackCompose](https://github.com/Anmol92verma/DiscordJetpackCompose) - A Jetpack compose clone for Discord Android Client.
+* [ShaderShowcaseApp](https://github.com/thelumiereguy/ShaderShowcaseApp) - A Jetpack Compose-based app to exhibit all the beautiful GLSL Fragment shaders I have ever written, where you can set them as Live Wallpaper.
+* [compose-fractal-nav](https://github.com/zach-klippenstein/compose-fractal-nav) - A proof-of-concept of a fractal/recursive navigation system.
 
 ## Resources
 * [mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
