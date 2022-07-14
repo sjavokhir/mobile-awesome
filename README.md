@@ -1,5 +1,5 @@
 # Useful resources
-*Most useful libraries, samples, books and other resources.*
+*Most useful Android libraries, samples, books and other resources.*
 
 ### Content
 - [Libraries](#libraries)
@@ -23,7 +23,6 @@
 * [android-snowfall](https://github.com/JetradarMobile/android-snowfall) - Fully customizable implementation of "Snowfall View" on Android.
 * [ViewAnimator](https://github.com/florent37/ViewAnimator) - A fluent Android animation library.
 * [Konfetti](https://github.com/DanielMartinus/Konfetti) - Celebrate more with this lightweight confetti particle system.
-* [Blur-LIB-Android](https://github.com/danielzeller/Blur-LIB-Android) - Blur layout.
 * [MetaBalls-LIB-Android](https://github.com/danielzeller/MetaBalls-LIB-Android) - A library that simulates a liquid effect for various UI widgets.
 * [dotsindicator](https://github.com/tommybuonomo/dotsindicator) - Three material Dots Indicators for view pagers in Android.
 * [Spotlight](https://github.com/TakuSemba/Spotlight) - Android Library that lights items for tutorials or walk-throughs etc...
@@ -34,8 +33,9 @@
 * [TimelineView](https://github.com/akri16/TimelineView) - A TimelineView that will help you create event timelines in apps just like the Google Calendar DayView.
 * [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) - An Android Animation library which easily add itemanimator to RecyclerView items.
 * [PhotoView](https://github.com/Baseflow/PhotoView) - Implementation of ImageView for Android that supports zooming, by various touch gestures.
-* [Localization](https://github.com/akexorcist/Localization) - [Android] In-app language changing library.
 * [SleepTimePicker](https://github.com/AppSci/SleepTimePicker) - Beatiful time view.
+* [android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player) - YouTube Player library for Android and Chromecast, stable and customizable.
+* [neopop-android](https://github.com/CRED-CLUB/neopop-android) - NeoPop is CRED's inbuilt library for using NeoPop components in your app.
 
 ### Jetpack Compose libraries
 * [accompanist](https://github.com/google/accompanist) - A collection of extension libraries for Jetpack Compose.
@@ -50,6 +50,7 @@
 * [voyager](https://github.com/adrielcafe/voyager) - 🛸 A pragmatic navigation library for Jetpack Compose.
 * [sketchbook](https://github.com/GetStream/sketchbook-compose) - 🎨 Jetpack Compose canvas library that helps you draw paths, images on canvas with color pickers and palettes.
 * [colorpicker](https://github.com/skydoves/colorpicker-compose) - 🎨 Jetpack Compose color picker library for getting colors from any images by tapping on the desired color.
+* [ExtendedSpans](https://github.com/saket/ExtendedSpans) - Squiggly underlines and rounded corners for text in Compose UI.
 
 ## Android samples
 
@@ -57,6 +58,8 @@
 * [Auxio](https://github.com/OxygenCobalt/Auxio) - A simple, rational music player for android.
 * [awesome-readium](https://github.com/readium/awesome-readium) - ⭐️ Awesome Readium-related resources.
 * [AudioRecorderView](https://github.com/Tougee/AudioRecorderView) - Simple Audio Recorder View with 'swap-to-cancel' Like Telegram.
+* [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android.
+* [Epub-Viewer-Android](https://github.com/libliboom/Epub-Viewer-Android) - 📖 epub2.0 viewer.
 
 ### Jetpack Compose
 * [tivi](https://github.com/chrisbanes/tivi) - Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
@@ -77,7 +80,9 @@
 ## Resources
 * [mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 * [libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
+* [mobile-system-design](https://github.com/weeeBox/mobile-system-design) - A simple framework for mobile system design interviews.
+* [simple-mobile-tools](https://github.com/SimpleMobileTools) - A group of simple, open source Android apps without ads and unnecessary permissions, with customizable widgets.
 * [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-* [SimpleMobileTools](https://github.com/SimpleMobileTools) - A group of simple, open source Android apps without ads and unnecessary permissions, with customizable widgets.
+* [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions.
 * [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 * [app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - A simple web app to generate a generic privacy policy for your Android/iOS apps.
