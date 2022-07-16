@@ -1,18 +1,19 @@
-# Useful resources
-*Most useful Android libraries, samples, books and other resources.*
+# Android awesome
+📝 A curated list of awesome Android, JetpackCompose libraries, projects, samples and resources.
 
 ### Content
-- [Libraries](#libraries)
-    - [Android libraries](#android-libraries) 
+- [Android libraries](#android-libraries)
+    - [XML libraries](#xml-libraries) 
     - [Jetpack Compose libraries](#jetpack-compose-libraries) 
 - [Android samples](#android-samples)
     - [Kotlin](#kotlin)
     - [Jetpack Compose](#jetpack-compose)
+- [Tools](#tools)
 - [Resources](#resources)
 
-##  Libraries
+##  Android libraries
 
-### Android libraries
+### XML libraries
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
 * [williamchart](https://github.com/diogobernardino/williamchart) - Android Library to rapidly develop attractive and insightful charts in android applications.
 * [Compressor](https://github.com/zetbaitsu/Compressor) - An android image compression library.
@@ -93,6 +94,12 @@
 * [jetpuppy](https://github.com/ericktijerou/jetpuppy) - Jetpuppy is a puppy adoption app using Jetpack Compose UI.
 * [Rebound](https://github.com/AnkitSuda/Rebound) - Beautiful and feature rich workout log app.
 * [SSComposeCookBook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) - A Collection of major Jetpack compose UI components which are commonly used.
+
+## Tools
+* [recompose](https://github.com/pocmo/recompose) - A tool for converting Android layouts in XML to Kotlin code using Jetpack Compose.
+* [Jetpack-Compose-Playground](https://foso.github.io/Jetpack-Compose-Playground)
+* [Jetpack-Compose-Academy](https://compose.academy)
+* [Jetpack-Compose-Catalog](https://www.jetpackcompose.app/compose-catalog)
 
 ## Resources
 * [android](https://github.com/android) - Android (https://d.android.com)
