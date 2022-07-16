@@ -99,7 +99,7 @@
 * [recompose](https://github.com/pocmo/recompose) - A tool for converting Android layouts in XML to Kotlin code using Jetpack Compose.
 * [Jetpack-Compose-Playground](https://foso.github.io/Jetpack-Compose-Playground)
 * [Jetpack-Compose-Academy](https://compose.academy)
-* [Jetpack-Compose-Catalog](https://www.jetpackcompose.app/compose-catalog)
+* [Jetpack-Compose-App](https://www.jetpackcompose.app)
 
 ## Resources
 * [android](https://github.com/android) - Android (https://d.android.com)
