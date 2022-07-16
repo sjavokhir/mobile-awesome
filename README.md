@@ -54,6 +54,7 @@
 * [SSJetPackComposeProgressButton](https://github.com/SimformSolutionsPvtLtd/SSJetPackComposeProgressButton) - SSJetPackComposeProgressButton is an elegant button with a different loading animations.
 * [SSJetpackComposeSwipeableView](https://github.com/SimformSolutionsPvtLtd/SSJetpackComposeSwipeableView) - SSJetpackComposeSwipeableView is a small library which provides support for the swipeable views. You can use this in your lazyColumns or can add a simple view which contains swipe to edit/delete functionality.
 * [compose-shimmer](https://github.com/ValeryPonomarenko/compose-shimmer) - Add a shimmer effect to the layout in Android Compose.
+* [Intro-showcase-view](https://github.com/canopas/Intro-showcase-view) - Highlight different features of the app using Jetpack Compose.
 
 ## Android samples
 
@@ -83,6 +84,11 @@
 * [ShaderShowcaseApp](https://github.com/thelumiereguy/ShaderShowcaseApp) - A Jetpack Compose-based app to exhibit all the beautiful GLSL Fragment shaders I have ever written, where you can set them as Live Wallpaper.
 * [compose-fractal-nav](https://github.com/zach-klippenstein/compose-fractal-nav) - A proof-of-concept of a fractal/recursive navigation system.
 * [ToDometerKotlinMultiplatform](https://github.com/serbelga/ToDometerKotlinMultiplatform) - WIP Kotlin Multiplatform project: A meter to-do list built with Android Jetpack, Compose UI Multiplatform, Wear Compose, SQLDelight, Koin Multiplatform, SwiftUI, Ktor Server / Client, Exposed...
+* [flux](https://github.com/fidloo/flux) - Flux is a dynamic weather that communicates the weather throughout a landscape whose details vary according to the time and the weather at that particular time.
+* [compose-schedule-calendar](https://github.com/halilozercan/compose-schedule-calendar) - Demo app for a horizontal schedule(event) calendar.
+* [jetpuppy](https://github.com/ericktijerou/jetpuppy) - Jetpuppy is a puppy adoption app using Jetpack Compose UI.
+* [Rebound](https://github.com/AnkitSuda/Rebound) - Beautiful and feature rich workout log app.
+* [SSComposeCookBook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) - A Collection of major Jetpack compose UI components which are commonly used.
 
 ## Resources
 * [android](https://github.com/android) - Android (https://d.android.com)
