@@ -77,6 +77,7 @@
 * [jetpack-compose-awesome](https://github.com/jetpack-compose/jetpack-compose-awesome) - 📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources.
 * [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook) - A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential.
 * [Jetpack-Compose-Tutorials](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials) - 🚀🧨📝 Series of Tutorials to learn about Jetpack Compose with subjects Material Widgets, Layout, SubcomposeLayout, custom layouts, State, custom rememberable, recomposition, LaunchedEffect, side-effects, Gesture, Animation, Navigation, Canvas, UIs like whatsapp and others.
+* [awesome-jetpack-compose-learning-resources](https://github.com/androiddevnotes/awesome-jetpack-compose-learning-resources) - 👓 A continuously updated list of learning Jetpack Compose for Android apps.
 * [Jetpack-compose-animations](https://github.com/canopas/Jetpack-compose-animations-examples) - Cool animations implemented with Jetpack compose.
 * [ComposeAnimations](https://github.com/antonshilov/ComposeAnimations) - Collection of nice animations created with Jetpack Compose.
 * [Why-Not-Compose](https://github.com/ImaginativeShohag/Why-Not-Compose) - A collection of animations, compositions, UIs using Jetpack Compose. You can say Jetpack Compose cookbook or play-ground if you want!
@@ -94,6 +95,7 @@
 * [jetpuppy](https://github.com/ericktijerou/jetpuppy) - Jetpuppy is a puppy adoption app using Jetpack Compose UI.
 * [Rebound](https://github.com/AnkitSuda/Rebound) - Beautiful and feature rich workout log app.
 * [SSComposeCookBook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) - A Collection of major Jetpack compose UI components which are commonly used.
+* [madewithcompose](https://github.com/halilozercan/madewithcompose) - My compose experiments in one convenient location.
 
 ## Tools
 * [recompose](https://github.com/pocmo/recompose) - A tool for converting Android layouts in XML to Kotlin code using Jetpack Compose.
