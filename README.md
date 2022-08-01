@@ -102,6 +102,7 @@
 * [Jetpack-Compose-Playground](https://foso.github.io/Jetpack-Compose-Playground)
 * [Jetpack-Compose-Academy](https://compose.academy)
 * [Jetpack-Compose-App](https://www.jetpackcompose.app)
+* [jetpackcomposeversion](https://www.jetpackcomposeversion.com) - The latest version of Jetpack Compose.
 
 ## Resources
 * [android](https://github.com/android) - Android (https://d.android.com)
