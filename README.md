@@ -41,33 +41,28 @@
 ### Jetpack Compose libraries
 * [accompanist](https://github.com/google/accompanist) - A collection of extension libraries for Jetpack Compose.
 * [snapper](https://github.com/chrisbanes/snapper) - A snapping fling behavior for Jetpack Compose.
-* [Zoomable](https://github.com/mxalbert1996/Zoomable) - Content zooming with dragging, double tap and dismiss gesture support for Jetpack Compose.
-* [Landscapist](https://github.com/skydoves/Landscapist) - 🍂 Jetpack Compose image loading library that fetches and displays network images with Glide, Coil, and Fresco.
-* [waves-timer-animation](https://github.com/manueldidonna/waves-timer-animation) - A relaxing waves animation built with Jetpack Compose.
+* [coil-compose](https://coil-kt.github.io/coil/compose/) - An image loading library for Android backed by Kotlin Coroutines.
 * [android-maps-compose](https://github.com/googlemaps/android-maps-compose) - Jetpack Compose components for the Maps SDK for Android.
+* [Zoomable](https://github.com/mxalbert1996/Zoomable) - Content zooming with dragging, double tap and dismiss gesture support for Jetpack Compose.
+* [waves-timer-animation](https://github.com/manueldidonna/waves-timer-animation) - A relaxing waves animation built with Jetpack Compose.
 * [twyper](https://github.com/theapache64/twyper) - 🔥 Yet another Tinder like swipeable cards, built for Jetpack Compose.
 * [Flippable](https://github.com/wajahatkarim3/Flippable) - A Jetpack Compose library for animating a flip transition between the front and back of something, such as a card.
-* [sketchbook](https://github.com/GetStream/sketchbook-compose) - 🎨 Jetpack Compose canvas library that helps you draw paths, images on canvas with color pickers and palettes.
-* [colorpicker](https://github.com/skydoves/colorpicker-compose) - 🎨 Jetpack Compose color picker library for getting colors from any images by tapping on the desired color.
 * [ExtendedSpans](https://github.com/saket/ExtendedSpans) - Squiggly underlines and rounded corners for text in Compose UI.
 * [charts](https://github.com/tehras/charts) - Simple Android compose charts.
-* [Orbitary](https://github.com/skydoves/Orbitary) - 🪐 Jetpack Compose animation library that allows you to implement animations such as shared element transition.
-* [SSJetPackComposeProgressButton](https://github.com/SimformSolutionsPvtLtd/SSJetPackComposeProgressButton) - SSJetPackComposeProgressButton is an elegant button with a different loading animations.
-* [SSJetpackComposeSwipeableView](https://github.com/SimformSolutionsPvtLtd/SSJetpackComposeSwipeableView) - SSJetpackComposeSwipeableView is a small library which provides support for the swipeable views. You can use this in your lazyColumns or can add a simple view which contains swipe to edit/delete functionality.
+* [Charty](https://github.com/hi-manshu/Charty) - An Elementary Chart library for Jetpack Compose.
 * [compose-shimmer](https://github.com/ValeryPonomarenko/compose-shimmer) - Add a shimmer effect to the layout in Android Compose.
 * [Intro-showcase-view](https://github.com/canopas/Intro-showcase-view) - Highlight different features of the app using Jetpack Compose.
 * [lyricist](https://github.com/adrielcafe/lyricist) - 🌎 The missing I18N/L10N (internationalization/localization) multiplatform library for Jetpack Compose!
 * [compose-richtext](https://github.com/halilozercan/compose-richtext) - A collection of Compose libraries for advanced text formatting and alternative display types.
-* [charts](https://github.com/tehras/charts) - Simple Android compose charts.
 * [Konfetti](https://github.com/DanielMartinus/Konfetti) - Celebrate more with this lightweight confetti particle system.
+* [Pluck](https://github.com/hi-manshu/Pluck) - Pluck, a library that helps you to pick image via Gallery/Camera built using Compose.
+* [story-editor](https://github.com/badoualy/story-editor) - Instagram-like story editor in compose.
 
 ## Android samples
 
 ### Kotlin
-* [Auxio](https://github.com/OxygenCobalt/Auxio) - A simple, rational music player for android.
 * [awesome-readium](https://github.com/readium/awesome-readium) - ⭐️ Awesome Readium-related resources.
 * [AudioRecorderView](https://github.com/Tougee/AudioRecorderView) - Simple Audio Recorder View with 'swap-to-cancel' Like Telegram.
-* [RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android.
 * [Epub-Viewer-Android](https://github.com/libliboom/Epub-Viewer-Android) - 📖 epub2.0 viewer.
 
 ### Jetpack Compose
@@ -80,13 +75,13 @@
 * [awesome-jetpack-compose-learning-resources](https://github.com/androiddevnotes/awesome-jetpack-compose-learning-resources) - 👓 A continuously updated list of learning Jetpack Compose for Android apps.
 * [Jetpack-compose-animations](https://github.com/canopas/Jetpack-compose-animations-examples) - Cool animations implemented with Jetpack compose.
 * [ComposeAnimations](https://github.com/antonshilov/ComposeAnimations) - Collection of nice animations created with Jetpack Compose.
+* [ComposeAnimationsPlayground](https://github.com/Anmol92verma/ComposeAnimationsPlayground) - Jetpack Compose Animations.
 * [Why-Not-Compose](https://github.com/ImaginativeShohag/Why-Not-Compose) - A collection of animations, compositions, UIs using Jetpack Compose. You can say Jetpack Compose cookbook or play-ground if you want!
 * [ComposeCalendar](https://github.com/boguszpawlowski/ComposeCalendar) - A Jetpack Compose library for handling calendar component rendering.
+* [JetCalendarView](https://github.com/Anmol92verma/JetCalendarView) - Hit Refresh! Calendar view ❤️ Jetpack Compose.
 * [Equalizer](https://github.com/glureau/Equalizer) - Jetpack Compose equalizer example (see article on glureau.com).
-* [jetflix](https://github.com/pushpalroy/jetflix) - A movie exploring app by cloning the UI of Netflix android app built with Jetpack Compose.
 * [compose-particle-system](https://github.com/CuriousNikhil/compose-particle-system) - A lightweight particle system for Jetpack Compose - Quarks.
 * [k5-compose](https://github.com/CuriousNikhil/k5-compose) - K5-compose is a sketchy port of p5.js for Jetpack Compose Desktop.
-* [SlackAndroidClone](https://github.com/Anmol92verma/SlackAndroidClone) - Slack android clone with Jetpack Compose!
 * [ShaderShowcaseApp](https://github.com/thelumiereguy/ShaderShowcaseApp) - A Jetpack Compose-based app to exhibit all the beautiful GLSL Fragment shaders I have ever written, where you can set them as Live Wallpaper.
 * [compose-fractal-nav](https://github.com/zach-klippenstein/compose-fractal-nav) - A proof-of-concept of a fractal/recursive navigation system.
 * [ToDometerKotlinMultiplatform](https://github.com/serbelga/ToDometerKotlinMultiplatform) - WIP Kotlin Multiplatform project: A meter to-do list built with Android Jetpack, Compose UI Multiplatform, Wear Compose, SQLDelight, Koin Multiplatform, SwiftUI, Ktor Server / Client, Exposed...
