@@ -66,31 +66,22 @@
 * [Epub-Viewer-Android](https://github.com/libliboom/Epub-Viewer-Android) - 📖 epub2.0 viewer.
 
 ### Jetpack Compose
-* [tivi](https://github.com/chrisbanes/tivi) - Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.
 * [compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
 * [animation-samples](https://github.com/android/animation-samples) - Multiple samples showing the best practices in animation on Android.
-* [jetpack-compose-awesome](https://github.com/jetpack-compose/jetpack-compose-awesome) - 📝 A curated list of awesome Jetpack Compose libraries, projects, articles and resources.
-* [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook) - A Collection on all Jetpack compose UI elements, Layouts, Widgets and Demo screens to see it's potential.
-* [Jetpack-Compose-Tutorials](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials) - 🚀🧨📝 Series of Tutorials to learn about Jetpack Compose with subjects Material Widgets, Layout, SubcomposeLayout, custom layouts, State, custom rememberable, recomposition, LaunchedEffect, side-effects, Gesture, Animation, Navigation, Canvas, UIs like whatsapp and others.
-* [awesome-jetpack-compose-learning-resources](https://github.com/androiddevnotes/awesome-jetpack-compose-learning-resources) - 👓 A continuously updated list of learning Jetpack Compose for Android apps.
+* [Jetpack-Compose-Tutorials](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials) - Jetpack Compose Tutorials and Playground.
 * [Jetpack-compose-animations](https://github.com/canopas/Jetpack-compose-animations-examples) - Cool animations implemented with Jetpack compose.
 * [ComposeAnimations](https://github.com/antonshilov/ComposeAnimations) - Collection of nice animations created with Jetpack Compose.
 * [ComposeAnimationsPlayground](https://github.com/Anmol92verma/ComposeAnimationsPlayground) - Jetpack Compose Animations.
 * [Why-Not-Compose](https://github.com/ImaginativeShohag/Why-Not-Compose) - A collection of animations, compositions, UIs using Jetpack Compose. You can say Jetpack Compose cookbook or play-ground if you want!
-* [ComposeCalendar](https://github.com/boguszpawlowski/ComposeCalendar) - A Jetpack Compose library for handling calendar component rendering.
-* [JetCalendarView](https://github.com/Anmol92verma/JetCalendarView) - Hit Refresh! Calendar view ❤️ Jetpack Compose.
 * [Equalizer](https://github.com/glureau/Equalizer) - Jetpack Compose equalizer example (see article on glureau.com).
 * [compose-particle-system](https://github.com/CuriousNikhil/compose-particle-system) - A lightweight particle system for Jetpack Compose - Quarks.
 * [k5-compose](https://github.com/CuriousNikhil/k5-compose) - K5-compose is a sketchy port of p5.js for Jetpack Compose Desktop.
-* [ShaderShowcaseApp](https://github.com/thelumiereguy/ShaderShowcaseApp) - A Jetpack Compose-based app to exhibit all the beautiful GLSL Fragment shaders I have ever written, where you can set them as Live Wallpaper.
 * [compose-fractal-nav](https://github.com/zach-klippenstein/compose-fractal-nav) - A proof-of-concept of a fractal/recursive navigation system.
-* [ToDometerKotlinMultiplatform](https://github.com/serbelga/ToDometerKotlinMultiplatform) - WIP Kotlin Multiplatform project: A meter to-do list built with Android Jetpack, Compose UI Multiplatform, Wear Compose, SQLDelight, Koin Multiplatform, SwiftUI, Ktor Server / Client, Exposed...
-* [flux](https://github.com/fidloo/flux) - Flux is a dynamic weather that communicates the weather throughout a landscape whose details vary according to the time and the weather at that particular time.
 * [compose-schedule-calendar](https://github.com/halilozercan/compose-schedule-calendar) - Demo app for a horizontal schedule(event) calendar.
-* [jetpuppy](https://github.com/ericktijerou/jetpuppy) - Jetpuppy is a puppy adoption app using Jetpack Compose UI.
-* [Rebound](https://github.com/AnkitSuda/Rebound) - Beautiful and feature rich workout log app.
-* [SSComposeCookBook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) - A Collection of major Jetpack compose UI components which are commonly used.
+* [ComposeCalendar](https://github.com/boguszpawlowski/ComposeCalendar) - A Jetpack Compose library for handling calendar component rendering.
+* [JetCalendarView](https://github.com/Anmol92verma/JetCalendarView) - Hit Refresh! Calendar view ❤️ Jetpack Compose.
 * [madewithcompose](https://github.com/halilozercan/madewithcompose) - My compose experiments in one convenient location.
+* [Rebound](https://github.com/AnkitSuda/Rebound) - Beautiful and feature rich workout log app.
 
 ## Tools
 * [recompose](https://github.com/pocmo/recompose) - A tool for converting Android layouts in XML to Kotlin code using Jetpack Compose.
