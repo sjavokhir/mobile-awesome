@@ -61,7 +61,7 @@
 ## Android samples
 
 ### Kotlin
-* [awesome-readium](https://github.com/readium/awesome-readium) - ⭐️ Awesome Readium-related resources.
+* [awesome-readium](https://github.com/readium/mobile) - ⭐️ Awesome Readium-related resources.
 * [AudioRecorderView](https://github.com/Tougee/AudioRecorderView) - Simple Audio Recorder View with 'swap-to-cancel' Like Telegram.
 * [Epub-Viewer-Android](https://github.com/libliboom/Epub-Viewer-Android) - 📖 epub2.0 viewer.
 
