@@ -40,6 +40,13 @@
 * [Android-BLE-Library](https://github.com/NordicSemiconductor/Android-BLE-Library) - A library that makes working with Bluetooth LE on Android a pleasure. Seriously.
 * [usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android) - Android USB host serial driver library for CDC, FTDI, Arduino and other devices.
 * [uCrop](https://github.com/Yalantis/uCrop) - Image Cropping Library for Android.
+* [AndroidFastScroll](https://github.com/zhanghai/AndroidFastScroll) - Fast scroll for Android RecyclerView and more.
+* [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) - RefreshLayout、OverScroll.
+* [rootbeer](https://github.com/scottyab/rootbeer) - Simple to use root checking Android library and sample app.
+* [ticker](https://github.com/robinhood/ticker) - An Android text view with scrolling text change animation.
+* [CalendarView](https://github.com/huanghaibin-dev/CalendarView) - An elegant, highly customized and high-performance Calendar Widget on Android.
+* [TableView](https://github.com/evrencoskun/TableView) - TableView is a powerful Android library for displaying complex data structures and rendering tabular data composed of rows, columns and cells.
+* [GifView](https://github.com/Cutta/GifView) - Library for playing gifs on Android.
 
 ### Jetpack Compose libraries
 * [accompanist](https://github.com/google/accompanist) - A collection of extension libraries for Jetpack Compose.
@@ -64,6 +71,8 @@
 * [appyx](https://github.com/bumble-tech/appyx) - Model-driven navigation for Jetpack Compose
 * [compose-destinations](https://github.com/raamcosta/compose-destinations) - Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.
 * [ComposeCalendar](https://github.com/boguszpawlowski/ComposeCalendar) - A Jetpack Compose library for handling calendar component rendering.
+* [Compose-Cropper](https://github.com/SmartToolFactory/Compose-Cropper) - 🚀🏞✂️ Image cropper that can crop with static, dynamic crop behavior, can use customizable shapes, vectors, and other png files as mask to crop with various customizations.
+* [android-signaturepad](https://github.com/gcacace/android-signaturepad) - A custom Android View for drawing smooth signatures.
 
 ## Android samples
 
@@ -71,6 +80,7 @@
 * [awesome-readium](https://github.com/readium/mobile) - ⭐️ Awesome Readium-related resources.
 * [AudioRecorderView](https://github.com/Tougee/AudioRecorderView) - Simple Audio Recorder View with 'swap-to-cancel' Like Telegram.
 * [Kotlin-Algorithms-and-Design-Patterns](https://github.com/evitwilly/Kotlin-Algorithms-and-Design-Patterns) - his repository contains the most common algorithms and data structures written in the Kotlin language with simple and concise code.
+* [SciChart](https://github.com/ABTSoftware/SciChart.Android.Examples) - Examples, Tutorials for SciChart Android: Realtime Android Chart Controls.
 
 ### Jetpack Compose
 * [compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
@@ -94,6 +104,7 @@
 * [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn / SoundCloud. NOTE: BEING REWRITTEN, SO STAY TUNED.
 
 ## Tools
+* [Glance](https://github.com/guolindev/Glance) - A simple and handy Android database debugging library.
 * [recompose](https://github.com/pocmo/recompose) - A tool for converting Android layouts in XML to Kotlin code using Jetpack Compose.
 * [Jetpack-Compose-Playground](https://foso.github.io/Jetpack-Compose-Playground)
 * [Jetpack-Compose-Academy](https://compose.academy)
@@ -101,7 +112,6 @@
 * [jetpackcomposeversion](https://www.jetpackcomposeversion.com) - The latest version of Jetpack Compose.
 
 ## Resources
-* [android](https://github.com/android) - Android (https://d.android.com)
 * [mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 * [libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 * [mobile-system-design](https://github.com/weeeBox/mobile-system-design) - A simple framework for mobile system design interviews.
@@ -110,3 +120,4 @@
 * [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions.
 * [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 * [app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - A simple web app to generate a generic privacy policy for your Android/iOS apps.
+* [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites.
