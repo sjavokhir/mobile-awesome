@@ -47,6 +47,7 @@
 * [CalendarView](https://github.com/huanghaibin-dev/CalendarView) - An elegant, highly customized and high-performance Calendar Widget on Android.
 * [TableView](https://github.com/evrencoskun/TableView) - TableView is a powerful Android library for displaying complex data structures and rendering tabular data composed of rows, columns and cells.
 * [GifView](https://github.com/Cutta/GifView) - Library for playing gifs on Android.
+* [android-signaturepad](https://github.com/gcacace/android-signaturepad) - A custom Android View for drawing smooth signatures.
 
 ### Jetpack Compose libraries
 * [accompanist](https://github.com/google/accompanist) - A collection of extension libraries for Jetpack Compose.
@@ -72,7 +73,7 @@
 * [compose-destinations](https://github.com/raamcosta/compose-destinations) - Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.
 * [ComposeCalendar](https://github.com/boguszpawlowski/ComposeCalendar) - A Jetpack Compose library for handling calendar component rendering.
 * [Compose-Cropper](https://github.com/SmartToolFactory/Compose-Cropper) - 🚀🏞✂️ Image cropper that can crop with static, dynamic crop behavior, can use customizable shapes, vectors, and other png files as mask to crop with various customizations.
-* [android-signaturepad](https://github.com/gcacace/android-signaturepad) - A custom Android View for drawing smooth signatures.
+* [sheets-compose-dialogs](https://github.com/maxkeppeler/sheets-compose-dialogs) - ⭐ Android Compose library that offers dialogs & views for various use cases.
 
 ## Android samples
 
@@ -96,12 +97,16 @@
 * [compose-fractal-nav](https://github.com/zach-klippenstein/compose-fractal-nav) - A proof-of-concept of a fractal/recursive navigation system.
 * [compose-schedule-calendar](https://github.com/halilozercan/compose-schedule-calendar) - Demo app for a horizontal schedule(event) calendar.
 * [JetCalendarView](https://github.com/Anmol92verma/JetCalendarView) - Hit Refresh! Calendar view ❤️ Jetpack Compose.
+* [Calendar](https://github.com/kizitonwose/Calendar) - A highly customizable calendar view and compose library for Android.
 * [madewithcompose](https://github.com/halilozercan/madewithcompose) - My compose experiments in one convenient location.
 * [Rebound](https://github.com/AnkitSuda/Rebound) - Beautiful and feature rich workout log app.
 
 ## Multiplatform
 * [Tetris](https://github.com/mykola-dev/Tetris) - The well known brick game written with Kotlin Multiplatform and Jetpack Compose Multiplatform.
 * [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn / SoundCloud. NOTE: BEING REWRITTEN, SO STAY TUNED.
+* [kotlin-multiplatform-samples](https://github.com/android/kotlin-multiplatform-samples) - Samples showcasing the experimental Kotlin Multiplatform Jetpack libraries.
+* [blue-falcon](https://github.com/Reedyuk/blue-falcon) - A Bluetooth kotlin multiplatform "Cross-Platform" library for iOS and Android.
+* [Decompose](https://github.com/arkivanov/Decompose) - Kotlin Multiplatform lifecycle-aware business logic components (aka BLoCs) with routing functionality and pluggable UI (Jetpack Compose, SwiftUI, JS React, etc.)
 
 ## Tools
 * [Glance](https://github.com/guolindev/Glance) - A simple and handy Android database debugging library.
