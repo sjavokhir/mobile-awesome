@@ -102,8 +102,7 @@
 * [Rebound](https://github.com/AnkitSuda/Rebound) - Beautiful and feature rich workout log app.
 
 ## Multiplatform
-* [Tetris](https://github.com/mykola-dev/Tetris) - The well known brick game written with Kotlin Multiplatform and Jetpack Compose Multiplatform.
-* [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify / Gaana / Youtube Music / Jio Saavn / SoundCloud. NOTE: BEING REWRITTEN, SO STAY TUNED.
+* [multiplatform-mobile-samples](https://kotlinlang.org/docs/multiplatform-mobile-samples.html) - This is a curated list of Kotlin Multiplatform Mobile samples.
 * [kotlin-multiplatform-samples](https://github.com/android/kotlin-multiplatform-samples) - Samples showcasing the experimental Kotlin Multiplatform Jetpack libraries.
 * [blue-falcon](https://github.com/Reedyuk/blue-falcon) - A Bluetooth kotlin multiplatform "Cross-Platform" library for iOS and Android.
 * [Decompose](https://github.com/arkivanov/Decompose) - Kotlin Multiplatform lifecycle-aware business logic components (aka BLoCs) with routing functionality and pluggable UI (Jetpack Compose, SwiftUI, JS React, etc.)
