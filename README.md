@@ -48,6 +48,7 @@
 * [TableView](https://github.com/evrencoskun/TableView) - TableView is a powerful Android library for displaying complex data structures and rendering tabular data composed of rows, columns and cells.
 * [GifView](https://github.com/Cutta/GifView) - Library for playing gifs on Android.
 * [android-signaturepad](https://github.com/gcacace/android-signaturepad) - A custom Android View for drawing smooth signatures.
+* [WeatherView](https://github.com/MatteoBattilana/WeatherView) - WeatherView is an Android Library let you make cool weather animations for your app.
 
 ### Jetpack Compose libraries
 * [accompanist](https://github.com/google/accompanist) - A collection of extension libraries for Jetpack Compose.
@@ -81,7 +82,6 @@
 * [awesome-readium](https://github.com/readium/mobile) - ⭐️ Awesome Readium-related resources.
 * [AudioRecorderView](https://github.com/Tougee/AudioRecorderView) - Simple Audio Recorder View with 'swap-to-cancel' Like Telegram.
 * [Kotlin-Algorithms-and-Design-Patterns](https://github.com/evitwilly/Kotlin-Algorithms-and-Design-Patterns) - his repository contains the most common algorithms and data structures written in the Kotlin language with simple and concise code.
-* [SciChart](https://github.com/ABTSoftware/SciChart.Android.Examples) - Examples, Tutorials for SciChart Android: Realtime Android Chart Controls.
 
 ### Jetpack Compose
 * [compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
