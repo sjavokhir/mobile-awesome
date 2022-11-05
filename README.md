@@ -102,25 +102,24 @@
 * [Rebound](https://github.com/AnkitSuda/Rebound) - Beautiful and feature rich workout log app.
 
 ## Multiplatform
-* [multiplatform-mobile-samples](https://kotlinlang.org/docs/multiplatform-mobile-samples.html) - This is a curated list of Kotlin Multiplatform Mobile samples.
+* [kmm-awesome](https://github.com/terrakok/kmm-awesome) - An awesome list that curates the best KMM libraries, tools and more.
 * [kotlin-multiplatform-samples](https://github.com/android/kotlin-multiplatform-samples) - Samples showcasing the experimental Kotlin Multiplatform Jetpack libraries.
 * [blue-falcon](https://github.com/Reedyuk/blue-falcon) - A Bluetooth kotlin multiplatform "Cross-Platform" library for iOS and Android.
 * [Decompose](https://github.com/arkivanov/Decompose) - Kotlin Multiplatform lifecycle-aware business logic components (aka BLoCs) with routing functionality and pluggable UI (Jetpack Compose, SwiftUI, JS React, etc.)
 
 ## Tools
 * [Glance](https://github.com/guolindev/Glance) - A simple and handy Android database debugging library.
-* [recompose](https://github.com/pocmo/recompose) - A tool for converting Android layouts in XML to Kotlin code using Jetpack Compose.
 * [Jetpack-Compose-Playground](https://foso.github.io/Jetpack-Compose-Playground)
 * [Jetpack-Compose-Academy](https://compose.academy)
 * [Jetpack-Compose-App](https://www.jetpackcompose.app)
 * [jetpackcomposeversion](https://www.jetpackcomposeversion.com) - The latest version of Jetpack Compose.
+* [kmp-web-wizard](https://terrakok.github.io/kmp-web-wizard/) - Support for multiplatform programming is one of Kotlin’s key benefits.
 
 ## Resources
 * [mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 * [libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 * [mobile-system-design](https://github.com/weeeBox/mobile-system-design) - A simple framework for mobile system design interviews.
 * [simple-mobile-tools](https://github.com/SimpleMobileTools) - A group of simple, open source Android apps without ads and unnecessary permissions, with customizable widgets.
-* [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 * [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions.
 * [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 * [app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - A simple web app to generate a generic privacy policy for your Android/iOS apps.
