@@ -11,6 +11,7 @@
 - [Multiplatform](#multiplatform)
 - [Tools](#tools)
 - [Resources](#resources)
+- [Interview](#interview)
 
 ##  Android libraries
 
@@ -48,7 +49,7 @@
 * [CalendarView](https://github.com/huanghaibin-dev/CalendarView) - An elegant, highly customized and high-performance Calendar Widget on Android.
 * [TableView](https://github.com/evrencoskun/TableView) - TableView is a powerful Android library for displaying complex data structures and rendering tabular data composed of rows, columns and cells.
 * [GifView](https://github.com/Cutta/GifView) - Library for playing gifs on Android.
-* [android-signaturepad](https://github.com/gcacace/android-signaturepad) - A custom Android View for drawing smooth signatures.
+* [android-signaturepad](https://github.com/warting/android-signaturepad) - A custom Android View for drawing smooth signatures.
 * [WeatherView](https://github.com/MatteoBattilana/WeatherView) - WeatherView is an Android Library let you make cool weather animations for your app.
 * [GraphView](https://github.com/oss-bandb/GraphView) - Android GraphView is used to display data in graph structures.
 
@@ -124,8 +125,12 @@
 ## Resources
 * [mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 * [libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
-* [mobile-system-design](https://github.com/weeeBox/mobile-system-design) - A simple framework for mobile system design interviews.
 * [simple-mobile-tools](https://github.com/SimpleMobileTools) - A group of simple, open source Android apps without ads and unnecessary permissions, with customizable widgets.
+* [app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - A simple web app to generate a generic privacy policy for your Android/iOS apps.
+
+## Interview
+* [mobile-system-design](https://github.com/weeeBox/mobile-system-design) - A simple framework for mobile system design interviews.
 * [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions.
 * [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-* [app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - A simple web app to generate a generic privacy policy for your Android/iOS apps.
+* [resume_templates](https://github.com/darhonbek/resume_templates) - Result oriented achievement templates for engineers.
+* [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
