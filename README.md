@@ -52,6 +52,8 @@
 * [android-signaturepad](https://github.com/warting/android-signaturepad) - A custom Android View for drawing smooth signatures.
 * [WeatherView](https://github.com/MatteoBattilana/WeatherView) - WeatherView is an Android Library let you make cool weather animations for your app.
 * [GraphView](https://github.com/oss-bandb/GraphView) - Android GraphView is used to display data in graph structures.
+* [AAChartCore](https://github.com/AAChartModel/AAChartCore-Kotlin) - 📈📊⛰⛰⛰An elegant modern declarative data visualization chart framework for Android. Extremely powerful, supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall and polar chart types.
+* [decoro](https://github.com/Tinkoff/decoro) - Android library designed for automatic formatting of text input by custom rules.
 
 ### Jetpack Compose libraries
 * [accompanist](https://github.com/google/accompanist) - A collection of extension libraries for Jetpack Compose.
@@ -86,6 +88,8 @@
 * [awesome-readium](https://github.com/readium/mobile) - ⭐️ Awesome Readium-related resources.
 * [AudioRecorderView](https://github.com/Tougee/AudioRecorderView) - Simple Audio Recorder View with 'swap-to-cancel' Like Telegram.
 * [Kotlin-Algorithms-and-Design-Patterns](https://github.com/evitwilly/Kotlin-Algorithms-and-Design-Patterns) - his repository contains the most common algorithms and data structures written in the Kotlin language with simple and concise code.
+* [android-template](https://github.com/blocoio/android-template) - Android app starter template.
+* [Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) - Design Patterns implemented in Kotlin.
 
 ### Jetpack Compose
 * [compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
@@ -113,6 +117,7 @@
 * [Decompose](https://github.com/arkivanov/Decompose) - Kotlin Multiplatform lifecycle-aware business logic components (aka BLoCs) with routing functionality and pluggable UI (Jetpack Compose, SwiftUI, JS React, etc.)
 * [D-KMP-sample](https://github.com/dbaroncelli/D-KMP-sample) - D-KMP Architecture official sample: it uses a shared KMP ViewModel and Navigation for Compose and SwiftUI apps.
 * [multiplatform-settings](https://github.com/russhwolf/multiplatform-settings) - A Kotlin Multiplatform library for saving simple key-value data.
+* [moko-mvvm](https://github.com/icerockdev/moko-mvvm) - Model-View-ViewModel architecture components for mobile (android & ios) Kotlin Multiplatform development.
 
 ## Tools
 * [Glance](https://github.com/guolindev/Glance) - A simple and handy Android database debugging library.
@@ -134,3 +139,4 @@
 * [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 * [resume_templates](https://github.com/darhonbek/resume_templates) - Result oriented achievement templates for engineers.
 * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
+* [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! 🎓.
