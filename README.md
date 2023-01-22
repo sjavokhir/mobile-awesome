@@ -3,7 +3,7 @@
 
 ### Content
 - [Android libraries](#android-libraries)
-    - [XML libraries](#xml-libraries) 
+    - [Android view libraries](#android-view-libraries) 
     - [Jetpack Compose libraries](#jetpack-compose-libraries) 
 - [Android samples](#android-samples)
     - [Kotlin](#kotlin)
@@ -12,11 +12,12 @@
 - [Multiplatform](#multiplatform)
 - [Tools](#tools)
 - [Resources](#resources)
-- [Interview](#interview)
+- [Algorithms and DSA](#algorithms-and-dsa)
+- [Interview](#interviews)
 
 ##  Android libraries
 
-### AndroidView libraries
+### Android view libraries
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
 * [williamchart](https://github.com/diogobernardino/williamchart) - Android Library to rapidly develop attractive and insightful charts in android applications.
 * [Compressor](https://github.com/zetbaitsu/Compressor) - An android image compression library.
@@ -148,7 +149,7 @@
 * [Leetcode](https://github.com/fishercoder1534/Leetcode) - Solutions to LeetCode problems; updated daily.
 * [AlgoDS](https://github.com/sherxon/AlgoDS) - Implementation of Algorithms and Data Structures, Problems and Solutions.
 
-## Interview
+## Interviews
 * [resume_templates](https://github.com/darhonbek/resume_templates) - Result oriented achievement templates for engineers.
 * [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 * [mobile-system-design](https://github.com/weeeBox/mobile-system-design) - A simple framework for mobile system design interviews.
