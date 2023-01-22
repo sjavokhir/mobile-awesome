@@ -117,7 +117,8 @@
 * [Decompose](https://github.com/arkivanov/Decompose) - Kotlin Multiplatform lifecycle-aware business logic components (aka BLoCs) with routing functionality and pluggable UI (Jetpack Compose, SwiftUI, JS React, etc.)
 * [D-KMP-sample](https://github.com/dbaroncelli/D-KMP-sample) - D-KMP Architecture official sample: it uses a shared KMP ViewModel and Navigation for Compose and SwiftUI apps.
 * [multiplatform-settings](https://github.com/russhwolf/multiplatform-settings) - A Kotlin Multiplatform library for saving simple key-value data.
-* [moko-mvvm](https://github.com/icerockdev/moko-mvvm) - Model-View-ViewModel architecture components for mobile (android & ios) Kotlin Multiplatform development.
+* [IceRock Development](https://github.com/icerockdev) - Kotlin Multiplatform developers team.
+* [Nordic Semiconductor](https://github.com/NordicSemiconductor) - Nordic Semiconductor's official GitHub account. Contains officially supported repositories.
 
 ## Tools
 * [Glance](https://github.com/guolindev/Glance) - A simple and handy Android database debugging library.
@@ -131,7 +132,9 @@
 * [mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 * [libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 * [simple-mobile-tools](https://github.com/SimpleMobileTools) - A group of simple, open source Android apps without ads and unnecessary permissions, with customizable widgets.
+* [Simform Solutions](https://github.com/SimformSolutionsPvtLtd) - Awesome components!
 * [app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - A simple web app to generate a generic privacy policy for your Android/iOS apps.
+* [yt-dlp](https://github.com/yt-dlp)
 
 ## Interview
 * [mobile-system-design](https://github.com/weeeBox/mobile-system-design) - A simple framework for mobile system design interviews.
