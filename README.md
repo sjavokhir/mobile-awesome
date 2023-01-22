@@ -8,6 +8,7 @@
 - [Android samples](#android-samples)
     - [Kotlin](#kotlin)
     - [Jetpack Compose](#jetpack-compose)
+- [iOS](#ios)
 - [Multiplatform](#multiplatform)
 - [Tools](#tools)
 - [Resources](#resources)
@@ -54,6 +55,7 @@
 * [GraphView](https://github.com/oss-bandb/GraphView) - Android GraphView is used to display data in graph structures.
 * [AAChartCore](https://github.com/AAChartModel/AAChartCore-Kotlin) - 📈📊⛰⛰⛰An elegant modern declarative data visualization chart framework for Android. Extremely powerful, supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall and polar chart types.
 * [decoro](https://github.com/Tinkoff/decoro) - Android library designed for automatic formatting of text input by custom rules.
+* [detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin.
 
 ### Jetpack Compose libraries
 * [accompanist](https://github.com/google/accompanist) - A collection of extension libraries for Jetpack Compose.
@@ -107,6 +109,11 @@
 * [madewithcompose](https://github.com/halilozercan/madewithcompose) - My compose experiments in one convenient location.
 * [Rebound](https://github.com/AnkitSuda/Rebound) - Beautiful and feature rich workout log app.
 
+## iOS
+* [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
+* [PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - A SwiftUI package to beautifully display and handle permissions.
+* [ElegantCalendar](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
+
 ## Multiplatform
 * [kmm-awesome](https://github.com/terrakok/kmm-awesome) - An awesome list that curates the best KMM libraries, tools and more.
 * [Kotlin-Multiplatform-Libraries](https://github.com/AAkira/Kotlin-Multiplatform-Libraries) - Kotlin Multiplatform Libraries. Welcome PR if you find or create new Kotlin Multiplatform Library.
@@ -135,12 +142,18 @@
 * [yt-dlp](https://github.com/yt-dlp)
 * [SmartToolFactory](https://github.com/SmartToolFactory) - 🚀 Building colorful and shiny things with Compose(Jetpack Compose Artist🎨).
 
-## Interview
-* [mobile-system-design](https://github.com/weeeBox/mobile-system-design) - A simple framework for mobile system design interviews.
-* [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions.
-* [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-* [resume_templates](https://github.com/darhonbek/resume_templates) - Result oriented achievement templates for engineers.
-* [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
-* [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! 🎓.
+## Algorithms and DSA
 * [Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) - Design Patterns implemented in Kotlin.
 * [Kotlin-Algorithms-and-Design-Patterns](https://github.com/evitwilly/Kotlin-Algorithms-and-Design-Patterns) - his repository contains the most common algorithms and data structures written in the Kotlin language with simple and concise code.
+* [Leetcode](https://github.com/fishercoder1534/Leetcode) - Solutions to LeetCode problems; updated daily.
+* [AlgoDS](https://github.com/sherxon/AlgoDS) - Implementation of Algorithms and Data Structures, Problems and Solutions.
+
+## Interview
+* [resume_templates](https://github.com/darhonbek/resume_templates) - Result oriented achievement templates for engineers.
+* [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+* [mobile-system-design](https://github.com/weeeBox/mobile-system-design) - A simple framework for mobile system design interviews.
+* [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions.
+* [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers.
+* [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+* [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
+* [professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers.
