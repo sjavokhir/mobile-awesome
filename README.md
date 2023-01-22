@@ -15,7 +15,7 @@
 
 ##  Android libraries
 
-### XML libraries
+### AndroidView libraries
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
 * [williamchart](https://github.com/diogobernardino/williamchart) - Android Library to rapidly develop attractive and insightful charts in android applications.
 * [Compressor](https://github.com/zetbaitsu/Compressor) - An android image compression library.
