@@ -129,12 +129,13 @@
 * [kmp-web-wizard](https://terrakok.github.io/kmp-web-wizard/) - Support for multiplatform programming is one of Kotlin’s key benefits.
 
 ## Resources
+* [app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - A simple web app to generate a generic privacy policy for your Android/iOS apps.
 * [mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 * [libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 * [simple-mobile-tools](https://github.com/SimpleMobileTools) - A group of simple, open source Android apps without ads and unnecessary permissions, with customizable widgets.
 * [Simform Solutions](https://github.com/SimformSolutionsPvtLtd) - Awesome components!
-* [app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - A simple web app to generate a generic privacy policy for your Android/iOS apps.
 * [yt-dlp](https://github.com/yt-dlp)
+* [SmartToolFactory](https://github.com/SmartToolFactory) - 🚀 Building colorful and shiny things with Compose(Jetpack Compose Artist🎨).
 
 ## Interview
 * [mobile-system-design](https://github.com/weeeBox/mobile-system-design) - A simple framework for mobile system design interviews.
