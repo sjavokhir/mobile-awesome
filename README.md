@@ -114,6 +114,17 @@
 * [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 * [PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - A SwiftUI package to beautifully display and handle permissions.
 * [ElegantCalendar](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
+* [Connectivity](https://github.com/rwbutler/Connectivity) - 🌐 Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.
+* [WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid) - A waterfall grid layout view for SwiftUI.
+* [PopupView](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
+* [SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI) - SwiftUI Image loading and Animation framework powered by SDWebImage.
+* [SwiftUICharts](https://github.com/mecid/SwiftUICharts) - A simple line and bar charting library that supports accessibility written using SwiftUI.
+* [DSFSparkline](https://github.com/dagronf/DSFSparkline) - A lightweight sparkline component for macOS, iOS and tvOS.
+* [AlertToast](https://github.com/elai950/AlertToast) - Create Apple-like alerts & toasts using SwiftUI.
+* [ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI) - SwiftUI Package for Configurable Confetti Animation 🎉.
+* [DeckKit](https://github.com/danielsaidi/DeckKit) - DeckKit makes it easy to create deck-based apps in SwiftUI.
+* [swipeable-cards](https://github.com/Volorf/swipeable-cards) - Swipeable Cards with SwiftUI.
+* [ACarousel](https://github.com/JWAutumn/ACarousel) - A carousel view for SwiftUI.
 
 ## Multiplatform
 * [kmm-awesome](https://github.com/terrakok/kmm-awesome) - An awesome list that curates the best KMM libraries, tools and more.
@@ -125,6 +136,8 @@
 * [multiplatform-settings](https://github.com/russhwolf/multiplatform-settings) - A Kotlin Multiplatform library for saving simple key-value data.
 * [IceRock Development](https://github.com/icerockdev) - Kotlin Multiplatform developers team.
 * [Nordic Semiconductor](https://github.com/NordicSemiconductor) - Nordic Semiconductor's official GitHub account. Contains officially supported repositories.
+* [KMP-NativeCoroutines](https://github.com/rickclephas/KMP-NativeCoroutines) - Library to use Kotlin Coroutines from Swift code in KMP apps.
+* [KMM-ViewModel](https://github.com/rickclephas/KMM-ViewModel) - Library to share Kotlin ViewModels with SwiftUI.
 
 ## Tools
 * [Glance](https://github.com/guolindev/Glance) - A simple and handy Android database debugging library.
