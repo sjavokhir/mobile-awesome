@@ -18,44 +18,19 @@
 ##  Android libraries
 
 ### Android view libraries
-* [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
-* [williamchart](https://github.com/diogobernardino/williamchart) - Android Library to rapidly develop attractive and insightful charts in android applications.
 * [Compressor](https://github.com/zetbaitsu/Compressor) - An android image compression library.
 * [LightCompressor](https://github.com/AbedElazizShe/LightCompressor) - A powerful and easy-to-use video compression library for android uses MediaCodec API.
-* [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) - An Android Animation library which easily add itemanimator to RecyclerView items.
-* [CarouselRecyclerview](https://github.com/sparrow007/CarouselRecyclerview) - Carousel Recyclerview let's you create carousel layout with the power of recyclerview by creating custom layout manager.
 * [HTextView](https://github.com/hanks-zyh/HTextView) - Animation effects to text, not really textview.
 * [PDFCreatorAndroid](https://github.com/tejpratap46/PDFCreatorAndroid) - Simple library to generate and view PDF in Android.
 * [AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer) - Android view for displaying PDFs rendered with PdfiumAndroid.
 * [kotlin-csv](https://github.com/doyaaaaaken/kotlin-csv) - Pure Kotlin CSV Reader/Writer.
 * [android-snowfall](https://github.com/JetradarMobile/android-snowfall) - Fully customizable implementation of "Snowfall View" on Android.
-* [Konfetti](https://github.com/DanielMartinus/Konfetti) - Celebrate more with this lightweight confetti particle system.
-* [dotsindicator](https://github.com/tommybuonomo/dotsindicator) - Three material Dots Indicators for view pagers in Android.
-* [Spotlight](https://github.com/TakuSemba/Spotlight) - Android Library that lights items for tutorials or walk-throughs etc...
-* [Android-SpinKit](https://github.com/ybq/Android-SpinKit) - Android loading animations.
-* [RxDownloader](https://github.com/ssseasonnn/RxDownload) - A multi-threaded download tool written with RxJava and Kotlin.
-* [DownloadX](https://github.com/ssseasonnn/DownloadX) - Download tool based on kotlin and coroutine.
-* [Fetch](https://github.com/tonyofrancis/Fetch) - The best file downloader library for Android.
-* [TimelineView](https://github.com/akri16/TimelineView) - A TimelineView that will help you create event timelines in apps just like the Google Calendar DayView.
-* [PhotoView](https://github.com/Baseflow/PhotoView) - Implementation of ImageView for Android that supports zooming, by various touch gestures.
-* [SleepTimePicker](https://github.com/AppSci/SleepTimePicker) - Beatiful time view.
 * [android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player) - YouTube Player library for Android and Chromecast, stable and customizable.
-* [neopop-android](https://github.com/CRED-CLUB/neopop-android) - NeoPop is CRED's inbuilt library for using NeoPop components in your app.
 * [Android-BLE-Library](https://github.com/NordicSemiconductor/Android-BLE-Library) - A library that makes working with Bluetooth LE on Android a pleasure. Seriously.
 * [usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android) - Android USB host serial driver library for CDC, FTDI, Arduino and other devices.
-* [uCrop](https://github.com/Yalantis/uCrop) - Image Cropping Library for Android.
-* [AndroidFastScroll](https://github.com/zhanghai/AndroidFastScroll) - Fast scroll for Android RecyclerView and more.
-* [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) - RefreshLayout、OverScroll.
-* [rootbeer](https://github.com/scottyab/rootbeer) - Simple to use root checking Android library and sample app.
-* [ticker](https://github.com/robinhood/ticker) - An Android text view with scrolling text change animation.
-* [CalendarView](https://github.com/huanghaibin-dev/CalendarView) - An elegant, highly customized and high-performance Calendar Widget on Android.
-* [TableView](https://github.com/evrencoskun/TableView) - TableView is a powerful Android library for displaying complex data structures and rendering tabular data composed of rows, columns and cells.
 * [GifView](https://github.com/Cutta/GifView) - Library for playing gifs on Android.
 * [android-signaturepad](https://github.com/warting/android-signaturepad) - A custom Android View for drawing smooth signatures.
 * [WeatherView](https://github.com/MatteoBattilana/WeatherView) - WeatherView is an Android Library let you make cool weather animations for your app.
-* [GraphView](https://github.com/oss-bandb/GraphView) - Android GraphView is used to display data in graph structures.
-* [AAChartCore](https://github.com/AAChartModel/AAChartCore-Kotlin) - 📈📊⛰⛰⛰An elegant modern declarative data visualization chart framework for Android. Extremely powerful, supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall and polar chart types.
-* [decoro](https://github.com/Tinkoff/decoro) - Android library designed for automatic formatting of text input by custom rules.
 * [detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin.
 
 ### Jetpack Compose libraries
