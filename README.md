@@ -2,10 +2,10 @@
 📝 A curated list of awesome Android, iOS, KMM libraries, projects, samples and resources.
 
 ### Content
-- [Android libraries](#android-libraries)
+- [Android](#android)
     - [Android view libraries](#android-view-libraries) 
-    - [Jetpack Compose libraries](#jetpack-compose-libraries) 
-- [Android samples](#android-samples)
+    - [Jetpack Compose libraries](#jetpack-compose-libraries)
+    - [Samples](#android-samples)
 - [iOS](#ios)
 - [Multiplatform](#multiplatform)
 - [Tools](#tools)
@@ -13,7 +13,7 @@
 - [Algorithms and DSA](#algorithms-and-dsa)
 - [Interview](#interviews)
 
-##  Android libraries
+##  Android
 
 ### Android view libraries
 * [Compressor](https://github.com/zetbaitsu/Compressor) - An android image compression library.
@@ -34,43 +34,26 @@
 
 ### Jetpack Compose libraries
 * [accompanist](https://github.com/google/accompanist) - A collection of extension libraries for Jetpack Compose.
-* [snapper](https://github.com/chrisbanes/snapper) - A snapping fling behavior for Jetpack Compose.
 * [coil-compose](https://coil-kt.github.io/coil/compose/) - An image loading library for Android backed by Kotlin Coroutines.
 * [android-maps-compose](https://github.com/googlemaps/android-maps-compose) - Jetpack Compose components for the Maps SDK for Android.
-* [Zoomable](https://github.com/mxalbert1996/Zoomable) - Content zooming with dragging, double tap and dismiss gesture support for Jetpack Compose.
-* [waves-timer-animation](https://github.com/manueldidonna/waves-timer-animation) - A relaxing waves animation built with Jetpack Compose.
-* [twyper](https://github.com/theapache64/twyper) - 🔥 Yet another Tinder like swipeable cards, built for Jetpack Compose.
-* [Flippable](https://github.com/wajahatkarim3/Flippable) - A Jetpack Compose library for animating a flip transition between the front and back of something, such as a card.
 * [ExtendedSpans](https://github.com/saket/ExtendedSpans) - Squiggly underlines and rounded corners for text in Compose UI.
-* [charts](https://github.com/tehras/charts) - Simple Android compose charts.
 * [Charty](https://github.com/hi-manshu/Charty) - An Elementary Chart library for Jetpack Compose.
-* [compose-shimmer](https://github.com/ValeryPonomarenko/compose-shimmer) - Add a shimmer effect to the layout in Android Compose.
 * [Intro-showcase-view](https://github.com/canopas/Intro-showcase-view) - Highlight different features of the app using Jetpack Compose.
-* [lyricist](https://github.com/adrielcafe/lyricist) - 🌎 The missing I18N/L10N (internationalization/localization) multiplatform library for Jetpack Compose!
-* [compose-richtext](https://github.com/halilozercan/compose-richtext) - A collection of Compose libraries for advanced text formatting and alternative display types.
 * [Konfetti](https://github.com/DanielMartinus/Konfetti) - Celebrate more with this lightweight confetti particle system.
 * [Pluck](https://github.com/hi-manshu/Pluck) - Pluck, a library that helps you to pick image via Gallery/Camera built using Compose.
-* [story-editor](https://github.com/badoualy/story-editor) - Instagram-like story editor in compose.
 * [pagecurl](https://github.com/oleksandrbalan/pagecurl) - Page Curl library for Jetpack Compose.
 * [appyx](https://github.com/bumble-tech/appyx) - Model-driven navigation for Jetpack Compose
 * [compose-destinations](https://github.com/raamcosta/compose-destinations) - Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.
-* [ComposeCalendar](https://github.com/boguszpawlowski/ComposeCalendar) - A Jetpack Compose library for handling calendar component rendering.
 * [Compose-Cropper](https://github.com/SmartToolFactory/Compose-Cropper) - 🚀🏞✂️ Image cropper that can crop with static, dynamic crop behavior, can use customizable shapes, vectors, and other png files as mask to crop with various customizations.
-* [sheets-compose-dialogs](https://github.com/maxkeppeler/sheets-compose-dialogs) - ⭐ Android Compose library that offers dialogs & views for various use cases.
-* [combo-breaker](https://github.com/romainguy/combo-breaker) - Text layout for Compose to flow text around arbitrary shapes.
 
-## Android samples
+### Android samples
 * [compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
-* [animation-samples](https://github.com/android/animation-samples) - Multiple samples showing the best practices in animation on Android.
-* [Jetpack-Compose-Tutorials](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials) - Jetpack Compose Tutorials and Playground.
 * [Jetpack-compose-animations](https://github.com/canopas/Jetpack-compose-animations-examples) - Cool animations implemented with Jetpack compose.
-* [ComposeAnimations](https://github.com/antonshilov/ComposeAnimations) - Collection of nice animations created with Jetpack Compose.
 * [ComposeAnimationsPlayground](https://github.com/Anmol92verma/ComposeAnimationsPlayground) - Jetpack Compose Animations.
 * [Why-Not-Compose](https://github.com/ImaginativeShohag/Why-Not-Compose) - A collection of animations, compositions, UIs using Jetpack Compose. You can say Jetpack Compose cookbook or play-ground if you want!
 * [Equalizer](https://github.com/glureau/Equalizer) - Jetpack Compose equalizer example (see article on glureau.com).
 * [compose-particle-system](https://github.com/CuriousNikhil/compose-particle-system) - A lightweight particle system for Jetpack Compose - Quarks.
 * [k5-compose](https://github.com/CuriousNikhil/k5-compose) - K5-compose is a sketchy port of p5.js for Jetpack Compose Desktop.
-* [compose-fractal-nav](https://github.com/zach-klippenstein/compose-fractal-nav) - A proof-of-concept of a fractal/recursive navigation system.
 * [compose-schedule-calendar](https://github.com/halilozercan/compose-schedule-calendar) - Demo app for a horizontal schedule(event) calendar.
 * [JetCalendarView](https://github.com/Anmol92verma/JetCalendarView) - Hit Refresh! Calendar view ❤️ Jetpack Compose.
 * [Calendar](https://github.com/kizitonwose/Calendar) - A highly customizable calendar view and compose library for Android.
@@ -100,6 +83,8 @@
 * [multiplatform-settings](https://github.com/russhwolf/multiplatform-settings) - A Kotlin Multiplatform library for saving simple key-value data.
 * [KMP-NativeCoroutines](https://github.com/rickclephas/KMP-NativeCoroutines) - Library to use Kotlin Coroutines from Swift code in KMP apps.
 * [KMM-ViewModel](https://github.com/rickclephas/KMM-ViewModel) - Library to share Kotlin ViewModels with SwiftUI.
+* [kotlin-swift-interopedia](https://github.com/hhru/kotlin-swift-interopedia) - Kotlin-Swift interopedia.
+* [Compose-Rich-Editor](https://github.com/MohamedRejeb/Compose-Rich-Editor) - A Rich text editor library for both Jetpack Compose and Compose Multiplatform, fully customizable and supports the common rich text editor features.
 
 ## Tools
 * [Compose-Multiplatform-Wizard](https://terrakok.github.io/Compose-Multiplatform-Wizard)
