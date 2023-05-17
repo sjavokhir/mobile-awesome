@@ -30,6 +30,7 @@
 * [android-signaturepad](https://github.com/warting/android-signaturepad) - A custom Android View for drawing smooth signatures.
 * [WeatherView](https://github.com/MatteoBattilana/WeatherView) - WeatherView is an Android Library let you make cool weather animations for your app.
 * [detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin.
+* [Glance](https://github.com/guolindev/Glance) - A simple and handy Android database debugging library.
 
 ### Jetpack Compose libraries
 * [accompanist](https://github.com/google/accompanist) - A collection of extension libraries for Jetpack Compose.
@@ -93,25 +94,20 @@
 * [ACarousel](https://github.com/JWAutumn/ACarousel) - A carousel view for SwiftUI.
 
 ## Multiplatform
+* [compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 * [kmm-awesome](https://github.com/terrakok/kmm-awesome) - An awesome list that curates the best KMM libraries, tools and more.
-* [Kotlin-Multiplatform-Libraries](https://github.com/AAkira/Kotlin-Multiplatform-Libraries) - Kotlin Multiplatform Libraries. Welcome PR if you find or create new Kotlin Multiplatform Library.
-* [kotlin-multiplatform-samples](https://github.com/android/kotlin-multiplatform-samples) - Samples showcasing the experimental Kotlin Multiplatform Jetpack libraries.
-* [blue-falcon](https://github.com/Reedyuk/blue-falcon) - A Bluetooth kotlin multiplatform "Cross-Platform" library for iOS and Android.
-* [Decompose](https://github.com/arkivanov/Decompose) - Kotlin Multiplatform lifecycle-aware business logic components (aka BLoCs) with routing functionality and pluggable UI (Jetpack Compose, SwiftUI, JS React, etc.)
-* [D-KMP-sample](https://github.com/dbaroncelli/D-KMP-sample) - D-KMP Architecture official sample: it uses a shared KMP ViewModel and Navigation for Compose and SwiftUI apps.
-* [multiplatform-settings](https://github.com/russhwolf/multiplatform-settings) - A Kotlin Multiplatform library for saving simple key-value data.
 * [IceRock Development](https://github.com/icerockdev) - Kotlin Multiplatform developers team.
-* [Nordic Semiconductor](https://github.com/NordicSemiconductor) - Nordic Semiconductor's official GitHub account. Contains officially supported repositories.
+* [Decompose](https://github.com/arkivanov/Decompose) - Kotlin Multiplatform lifecycle-aware business logic components (aka BLoCs) with routing functionality and pluggable UI (Jetpack Compose, SwiftUI, JS React, etc.)
+* [voyager](https://github.com/adrielcafe/voyager) - 🛸 A pragmatic navigation library for Jetpack Compose.
+* [Odyssey](https://github.com/AlexGladkov/Odyssey) - Odyssey it's a declarative multiplatform navigation library for Multiplatform Compose.
+* [multiplatform-settings](https://github.com/russhwolf/multiplatform-settings) - A Kotlin Multiplatform library for saving simple key-value data.
 * [KMP-NativeCoroutines](https://github.com/rickclephas/KMP-NativeCoroutines) - Library to use Kotlin Coroutines from Swift code in KMP apps.
 * [KMM-ViewModel](https://github.com/rickclephas/KMM-ViewModel) - Library to share Kotlin ViewModels with SwiftUI.
 
 ## Tools
-* [Glance](https://github.com/guolindev/Glance) - A simple and handy Android database debugging library.
-* [Jetpack-Compose-Playground](https://foso.github.io/Jetpack-Compose-Playground)
-* [Jetpack-Compose-Academy](https://compose.academy)
+* [Compose-Multiplatform-Wizard](https://terrakok.github.io/Compose-Multiplatform-Wizard)
 * [Jetpack-Compose-App](https://www.jetpackcompose.app)
 * [jetpackcomposeversion](https://www.jetpackcomposeversion.com) - The latest version of Jetpack Compose.
-* [kmp-web-wizard](https://terrakok.github.io/kmp-web-wizard/) - Support for multiplatform programming is one of Kotlin’s key benefits.
 
 ## Resources
 * [mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
