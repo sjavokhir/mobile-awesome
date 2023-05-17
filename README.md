@@ -45,6 +45,7 @@
 * [appyx](https://github.com/bumble-tech/appyx) - Model-driven navigation for Jetpack Compose
 * [compose-destinations](https://github.com/raamcosta/compose-destinations) - Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.
 * [Compose-Cropper](https://github.com/SmartToolFactory/Compose-Cropper) - 🚀🏞✂️ Image cropper that can crop with static, dynamic crop behavior, can use customizable shapes, vectors, and other png files as mask to crop with various customizations.
+* [Calendar](https://github.com/kizitonwose/Calendar) - A highly customizable calendar view and compose library for Android.
 
 ### Android samples
 * [compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
@@ -56,7 +57,6 @@
 * [k5-compose](https://github.com/CuriousNikhil/k5-compose) - K5-compose is a sketchy port of p5.js for Jetpack Compose Desktop.
 * [compose-schedule-calendar](https://github.com/halilozercan/compose-schedule-calendar) - Demo app for a horizontal schedule(event) calendar.
 * [JetCalendarView](https://github.com/Anmol92verma/JetCalendarView) - Hit Refresh! Calendar view ❤️ Jetpack Compose.
-* [Calendar](https://github.com/kizitonwose/Calendar) - A highly customizable calendar view and compose library for Android.
 * [madewithcompose](https://github.com/halilozercan/madewithcompose) - My compose experiments in one convenient location.
 * [Rebound](https://github.com/AnkitSuda/Rebound) - Beautiful and feature rich workout log app.
 
