@@ -78,20 +78,17 @@
 * [Rebound](https://github.com/AnkitSuda/Rebound) - Beautiful and feature rich workout log app.
 
 ## iOS
-* [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
 * [PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - A SwiftUI package to beautifully display and handle permissions.
 * [ElegantCalendar](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
 * [Connectivity](https://github.com/rwbutler/Connectivity) - 🌐 Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.
 * [WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid) - A waterfall grid layout view for SwiftUI.
 * [PopupView](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
-* [SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI) - SwiftUI Image loading and Animation framework powered by SDWebImage.
 * [SwiftUICharts](https://github.com/mecid/SwiftUICharts) - A simple line and bar charting library that supports accessibility written using SwiftUI.
 * [DSFSparkline](https://github.com/dagronf/DSFSparkline) - A lightweight sparkline component for macOS, iOS and tvOS.
 * [AlertToast](https://github.com/elai950/AlertToast) - Create Apple-like alerts & toasts using SwiftUI.
 * [ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI) - SwiftUI Package for Configurable Confetti Animation 🎉.
 * [DeckKit](https://github.com/danielsaidi/DeckKit) - DeckKit makes it easy to create deck-based apps in SwiftUI.
 * [swipeable-cards](https://github.com/Volorf/swipeable-cards) - Swipeable Cards with SwiftUI.
-* [ACarousel](https://github.com/JWAutumn/ACarousel) - A carousel view for SwiftUI.
 
 ## Multiplatform
 * [compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
