@@ -1,13 +1,11 @@
 # Android awesome
-📝 A curated list of awesome Android, JetpackCompose libraries, projects, samples and resources.
+📝 A curated list of awesome Android, iOS, KMM libraries, projects, samples and resources.
 
 ### Content
 - [Android libraries](#android-libraries)
     - [Android view libraries](#android-view-libraries) 
     - [Jetpack Compose libraries](#jetpack-compose-libraries) 
 - [Android samples](#android-samples)
-    - [Kotlin](#kotlin)
-    - [Jetpack Compose](#jetpack-compose)
 - [iOS](#ios)
 - [Multiplatform](#multiplatform)
 - [Tools](#tools)
@@ -61,13 +59,6 @@
 * [combo-breaker](https://github.com/romainguy/combo-breaker) - Text layout for Compose to flow text around arbitrary shapes.
 
 ## Android samples
-
-### Kotlin
-* [awesome-readium](https://github.com/readium/mobile) - ⭐️ Awesome Readium-related resources.
-* [AudioRecorderView](https://github.com/Tougee/AudioRecorderView) - Simple Audio Recorder View with 'swap-to-cancel' Like Telegram.
-* [android-template](https://github.com/blocoio/android-template) - Android app starter template.
-
-### Jetpack Compose
 * [compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
 * [animation-samples](https://github.com/android/animation-samples) - Multiple samples showing the best practices in animation on Android.
 * [Jetpack-Compose-Tutorials](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials) - Jetpack Compose Tutorials and Playground.
@@ -123,12 +114,8 @@
 * [kmp-web-wizard](https://terrakok.github.io/kmp-web-wizard/) - Support for multiplatform programming is one of Kotlin’s key benefits.
 
 ## Resources
-* [app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - A simple web app to generate a generic privacy policy for your Android/iOS apps.
 * [mediapipe](https://github.com/google/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-* [libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
-* [simple-mobile-tools](https://github.com/SimpleMobileTools) - A group of simple, open source Android apps without ads and unnecessary permissions, with customizable widgets.
 * [Simform Solutions](https://github.com/SimformSolutionsPvtLtd) - Awesome components!
-* [yt-dlp](https://github.com/yt-dlp)
 * [SmartToolFactory](https://github.com/SmartToolFactory) - 🚀 Building colorful and shiny things with Compose(Jetpack Compose Artist🎨).
 
 ## Algorithms and DSA
