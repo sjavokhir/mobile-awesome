@@ -18,16 +18,12 @@
 ### Android view libraries
 * [Compressor](https://github.com/zetbaitsu/Compressor) - An android image compression library.
 * [LightCompressor](https://github.com/AbedElazizShe/LightCompressor) - A powerful and easy-to-use video compression library for android uses MediaCodec API.
-* [HTextView](https://github.com/hanks-zyh/HTextView) - Animation effects to text, not really textview.
 * [PDFCreatorAndroid](https://github.com/tejpratap46/PDFCreatorAndroid) - Simple library to generate and view PDF in Android.
 * [AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer) - Android view for displaying PDFs rendered with PdfiumAndroid.
 * [kotlin-csv](https://github.com/doyaaaaaken/kotlin-csv) - Pure Kotlin CSV Reader/Writer.
-* [android-snowfall](https://github.com/JetradarMobile/android-snowfall) - Fully customizable implementation of "Snowfall View" on Android.
 * [android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player) - YouTube Player library for Android and Chromecast, stable and customizable.
 * [Android-BLE-Library](https://github.com/NordicSemiconductor/Android-BLE-Library) - A library that makes working with Bluetooth LE on Android a pleasure. Seriously.
 * [usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android) - Android USB host serial driver library for CDC, FTDI, Arduino and other devices.
-* [GifView](https://github.com/Cutta/GifView) - Library for playing gifs on Android.
-* [android-signaturepad](https://github.com/warting/android-signaturepad) - A custom Android View for drawing smooth signatures.
 * [WeatherView](https://github.com/MatteoBattilana/WeatherView) - WeatherView is an Android Library let you make cool weather animations for your app.
 * [detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin.
 * [Glance](https://github.com/guolindev/Glance) - A simple and handy Android database debugging library.
