@@ -70,6 +70,7 @@
 * [Decompose-Router](https://github.com/xxfast/Decompose-Router) - A Compose-multiplatform navigation library that leverage Decompose to create an API inspired by Conductor.
 * [voyager](https://github.com/adrielcafe/voyager) - 🛸 A pragmatic navigation library for Jetpack Compose.
 * [Odyssey](https://github.com/AlexGladkov/Odyssey) - Odyssey it's a declarative multiplatform navigation library for Multiplatform Compose.
+* [PreCompose](https://github.com/Tlaster/PreCompose) - Compose Multiplatform Navigation && State Management.
 * [multiplatform-settings](https://github.com/russhwolf/multiplatform-settings) - A Kotlin Multiplatform library for saving simple key-value data.
 * [KMP-NativeCoroutines](https://github.com/rickclephas/KMP-NativeCoroutines) - Library to use Kotlin Coroutines from Swift code in KMP apps.
 * [KMM-ViewModel](https://github.com/rickclephas/KMM-ViewModel) - Library to share Kotlin ViewModels with SwiftUI.
