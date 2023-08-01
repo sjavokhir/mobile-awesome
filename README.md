@@ -24,14 +24,11 @@
 * [android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player) - YouTube Player library for Android and Chromecast, stable and customizable.
 * [Android-BLE-Library](https://github.com/NordicSemiconductor/Android-BLE-Library) - A library that makes working with Bluetooth LE on Android a pleasure. Seriously.
 * [usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android) - Android USB host serial driver library for CDC, FTDI, Arduino and other devices.
-* [WeatherView](https://github.com/MatteoBattilana/WeatherView) - WeatherView is an Android Library let you make cool weather animations for your app.
 * [detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin.
 * [Glance](https://github.com/guolindev/Glance) - A simple and handy Android database debugging library.
 
 ### Jetpack Compose libraries
-* [accompanist](https://github.com/google/accompanist) - A collection of extension libraries for Jetpack Compose.
 * [coil-compose](https://coil-kt.github.io/coil/compose/) - An image loading library for Android backed by Kotlin Coroutines.
-* [android-maps-compose](https://github.com/googlemaps/android-maps-compose) - Jetpack Compose components for the Maps SDK for Android.
 * [ExtendedSpans](https://github.com/saket/ExtendedSpans) - Squiggly underlines and rounded corners for text in Compose UI.
 * [Charty](https://github.com/hi-manshu/Charty) - An Elementary Chart library for Jetpack Compose.
 * [Intro-showcase-view](https://github.com/canopas/Intro-showcase-view) - Highlight different features of the app using Jetpack Compose.
@@ -54,13 +51,11 @@
 * [compose-schedule-calendar](https://github.com/halilozercan/compose-schedule-calendar) - Demo app for a horizontal schedule(event) calendar.
 * [JetCalendarView](https://github.com/Anmol92verma/JetCalendarView) - Hit Refresh! Calendar view ❤️ Jetpack Compose.
 * [madewithcompose](https://github.com/halilozercan/madewithcompose) - My compose experiments in one convenient location.
-* [Rebound](https://github.com/AnkitSuda/Rebound) - Beautiful and feature rich workout log app.
 
 ## iOS
 * [PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - A SwiftUI package to beautifully display and handle permissions.
 * [ElegantCalendar](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
 * [Connectivity](https://github.com/rwbutler/Connectivity) - 🌐 Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.
-* [WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid) - A waterfall grid layout view for SwiftUI.
 * [PopupView](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
 * [SwiftUICharts](https://github.com/mecid/SwiftUICharts) - A simple line and bar charting library that supports accessibility written using SwiftUI.
 * [DSFSparkline](https://github.com/dagronf/DSFSparkline) - A lightweight sparkline component for macOS, iOS and tvOS.
