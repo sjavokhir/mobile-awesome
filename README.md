@@ -8,6 +8,8 @@
     - [Samples](#android-samples)
 - [iOS](#ios)
 - [Multiplatform](#multiplatform)
+    - [Libraries](#multiplatform-libraries) 
+    - [Samples](#multiplatform-samples)
 - [Tools](#tools)
 - [Resources](#resources)
 - [Algorithms and DSA](#algorithms-and-dsa)
@@ -43,6 +45,7 @@
 
 ### Android samples
 * [compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
+* [nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose.
 * [Jetpack-compose-animations](https://github.com/canopas/Jetpack-compose-animations-examples) - Cool animations implemented with Jetpack compose.
 * [ComposeAnimationsPlayground](https://github.com/Anmol92verma/ComposeAnimationsPlayground) - Jetpack Compose Animations.
 * [Why-Not-Compose](https://github.com/ImaginativeShohag/Why-Not-Compose) - A collection of animations, compositions, UIs using Jetpack Compose. You can say Jetpack Compose cookbook or play-ground if you want!
@@ -64,8 +67,12 @@
 * [DeckKit](https://github.com/danielsaidi/DeckKit) - DeckKit makes it easy to create deck-based apps in SwiftUI.
 * [swipeable-cards](https://github.com/Volorf/swipeable-cards) - Swipeable Cards with SwiftUI.
 * [QRCode](https://github.com/dagronf/QRCode) - A simple drop-in macOS/iOS/tvOS/watchOS QR Code generator view for Swift, Objective-C and SwiftUI.
+* [Pulse](https://github.com/kean/Pulse) - Network Logger for Apple platforms.
 
 ## Multiplatform
+
+### Multiplatform libraries
+
 * [Decompose](https://github.com/arkivanov/Decompose) - Kotlin Multiplatform lifecycle-aware business logic components (aka BLoCs) with routing functionality and pluggable UI (Jetpack Compose, SwiftUI, JS React, etc.)
 * [Decompose-Router](https://github.com/xxfast/Decompose-Router) - A Compose-multiplatform navigation library that leverage Decompose to create an API inspired by Conductor.
 * [voyager](https://github.com/adrielcafe/voyager) - 🛸 A pragmatic navigation library for Jetpack Compose.
@@ -75,6 +82,15 @@
 * [KMP-NativeCoroutines](https://github.com/rickclephas/KMP-NativeCoroutines) - Library to use Kotlin Coroutines from Swift code in KMP apps.
 * [KMM-ViewModel](https://github.com/rickclephas/KMM-ViewModel) - Library to share Kotlin ViewModels with SwiftUI.
 * [Compose-Rich-Editor](https://github.com/MohamedRejeb/Compose-Rich-Editor) - A Rich text editor library for both Jetpack Compose and Compose Multiplatform, fully customizable and supports the common rich text editor features.
+* [Calf](https://github.com/MohamedRejeb/Calf) - Calf is a library that allows you to easily create adaptive UIs for your Compose Multiplatform apps.
+* [lyricist](https://github.com/adrielcafe/lyricist) - 🌎 The missing I18N/L10N (internationalization/localization) multiplatform library for Jetpack Compose!
+
+### Multiplatform samples
+
+* [qr-master](https://github.com/javokhirsavriev/qr-master) - QR Master - QR Scanner & Creator.
+* [MusicApp-KMP](https://github.com/SEAbdulbasit/MusicApp-KMP) - This is a music player app built using Compose Multiplatform UI that works on #Android, #iOS, #Desktop, and #Web platforms.
+* [Kicks](https://github.com/ayodelekehinde/Kicks) - A Kotlin Multiplatform Mobile simple music streaming app.
+* [Pokedex](https://github.com/MohamedRejeb/Pokedex) - Pokedex - a Kotlin Multiplatform app, built with Compose multiplatform, Coroutines, Flow, Koin, Ktor, SqlDelight, Decompose, MVIKotlin, and Material 3 based on MVI architecture.
 
 ## Tools
 * [kmm-awesome](https://github.com/terrakok/kmm-awesome) - An awesome list that curates the best KMM libraries, tools and more.
