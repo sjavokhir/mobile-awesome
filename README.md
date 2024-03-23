@@ -126,3 +126,4 @@
 * [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 * [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 * [professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers.
+* [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
