@@ -90,6 +90,7 @@
 * [KMPNotifier](https://github.com/mirzemehdi/KMPNotifier) - Kotlin Multiplatform Push Notification Library targetting android and iOS.
 * [moko-permissions](https://github.com/icerockdev/moko-permissions) - Runtime permissions controls for mobile (android & ios) Kotlin Multiplatform development.
 * [moko-geo](https://github.com/icerockdev/moko-geo) - Geolocation access for mobile (android & ios) Kotlin Multiplatform development.
+* [sain](https://github.com/joelkanyi/sain) - A Compose Multiplatform library for capturing and exporting signatures as ImageBitmap with customizable options. Perfect for electronic signature, legal documents and more.
 
 ### Multiplatform samples
 
