@@ -87,6 +87,9 @@
 * [reveal](https://github.com/svenjacobs/reveal) - Reveal effect (coach mark) for Compose Multiplatform targeting Android, iOS, Desktop and Web.
 * [lazytable](https://github.com/oleksandrbalan/lazytable) - Lazy layout to display columns and rows of data on the two directional plane.
 * [tagcloud](https://github.com/oleksandrbalan/tagcloud) - Tag cloud as 3D sphere.
+* [KMPNotifier](https://github.com/mirzemehdi/KMPNotifier) - Kotlin Multiplatform Push Notification Library targetting android and iOS.
+* [moko-permissions](https://github.com/icerockdev/moko-permissions) - Runtime permissions controls for mobile (android & ios) Kotlin Multiplatform development.
+* [moko-geo](https://github.com/icerockdev/moko-geo) - Geolocation access for mobile (android & ios) Kotlin Multiplatform development.
 
 ### Multiplatform samples
 
