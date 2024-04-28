@@ -53,6 +53,7 @@
 * [swipeable-cards](https://github.com/Volorf/swipeable-cards) - Swipeable Cards with SwiftUI.
 * [QRCode](https://github.com/dagronf/QRCode) - A simple drop-in macOS/iOS/tvOS/watchOS QR Code generator view for Swift, Objective-C and SwiftUI.
 * [Pulse](https://github.com/kean/Pulse) - Network Logger for Apple platforms.
+* [surmagic](https://github.com/gurhub/surmagic) - 🚀 Command Line Tool to create XCFramework for multiple platforms in one shot!
 
 ## Multiplatform
 
@@ -114,6 +115,7 @@
 * [SmartToolFactory](https://github.com/SmartToolFactory) - 🚀 Building colorful and shiny things with Compose(Jetpack Compose Artist🎨).
 * [Canopass](https://github.com/canopas) - We develop amazing products to help entrepreneurs, startups and businesses bring their ideas to life.
 * [Exyte](https://github.com/exyte) - Developers with 5+ years of experience in iOS, Android, and the art of clear communication.
+* [git-tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 
 ## Algorithms and DSA
 * [Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) - Design Patterns implemented in Kotlin.
