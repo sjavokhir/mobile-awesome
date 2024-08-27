@@ -7,9 +7,6 @@
     - [Samples](#android-samples)
 - [iOS](#ios)
 - [Multiplatform](#multiplatform)
-    - [Libraries](#multiplatform-libraries) 
-    - [Samples](#multiplatform-samples)
-- [Tools](#tools)
 - [Resources](#resources)
 - [Algorithms and DSA](#algorithms-and-dsa)
 - [Interview](#interviews)
@@ -60,9 +57,6 @@
 * [WeScan](https://github.com/WeTransfer/WeScan) - Document Scanning Made Easy for iOS.
 
 ## Multiplatform
-
-### Multiplatform libraries
-
 * [Decompose](https://github.com/arkivanov/Decompose) - Kotlin Multiplatform lifecycle-aware business logic components (aka BLoCs) with routing functionality and pluggable UI (Jetpack Compose, SwiftUI, JS React, etc.)
 * [Decompose-Router](https://github.com/xxfast/Decompose-Router) - A Compose-multiplatform navigation library that leverage Decompose to create an API inspired by Conductor.
 * [voyager](https://github.com/adrielcafe/voyager) - 🛸 A pragmatic navigation library for Jetpack Compose.
@@ -93,33 +87,17 @@
 * [lazytable](https://github.com/oleksandrbalan/lazytable) - Lazy layout to display columns and rows of data on the two directional plane.
 * [tagcloud](https://github.com/oleksandrbalan/tagcloud) - Tag cloud as 3D sphere.
 * [KMPNotifier](https://github.com/mirzemehdi/KMPNotifier) - Kotlin Multiplatform Push Notification Library targetting android and iOS.
-* [moko-permissions](https://github.com/icerockdev/moko-permissions) - Runtime permissions controls for mobile (android & ios) Kotlin Multiplatform development.
-* [moko-geo](https://github.com/icerockdev/moko-geo) - Geolocation access for mobile (android & ios) Kotlin Multiplatform development.
 * [sain](https://github.com/joelkanyi/sain) - A Compose Multiplatform library for capturing and exporting signatures as ImageBitmap with customizable options. Perfect for electronic signature, legal documents and more.
 
-### Multiplatform samples
-
-* [qr-master](https://github.com/javokhirsavriev/qr-master) - QR Master - QR Scanner & Creator.
-* [MusicApp-KMP](https://github.com/SEAbdulbasit/MusicApp-KMP) - This is a music player app built using Compose Multiplatform UI that works on #Android, #iOS, #Desktop, and #Web platforms.
-* [Kicks](https://github.com/ayodelekehinde/Kicks) - A Kotlin Multiplatform Mobile simple music streaming app.
-* [Pokedex](https://github.com/MohamedRejeb/Pokedex) - Pokedex - a Kotlin Multiplatform app, built with Compose multiplatform, Coroutines, Flow, Koin, Ktor, SqlDelight, Decompose, MVIKotlin, and Material 3 based on MVI architecture.
-* [SolarEclipse](https://github.com/Kashif-E/SolarEclipse) - Solar eclipse.
-
-## Tools
-* [kmm-awesome](https://github.com/terrakok/kmm-awesome) - An awesome list that curates the best KMM libraries, tools and more.
-* [Compose-Multiplatform-Wizard](https://terrakok.github.io/Compose-Multiplatform-Wizard)
-* [jetpackcomposeversion](https://www.jetpackcomposeversion.com) - The latest version of Jetpack Compose.
-* [kobweb](https://github.com/varabyte/kobweb) - A modern framework for full stack web apps in Kotlin, built upon Compose HTML.
-* [kotlin-swift-interopedia](https://github.com/hhru/kotlin-swift-interopedia) - Kotlin-Swift interopedia.
-
 ## Resources
+* [Compose-Multiplatform-Wizard](https://terrakok.github.io/Compose-Multiplatform-Wizard)
+* [kobweb](https://github.com/varabyte/kobweb) - A modern framework for full stack web apps in Kotlin, built upon Compose HTML.
 * [IceRock Development](https://github.com/icerockdev) - Kotlin Multiplatform developers team.
-* [cashapp](https://github.com/cashapp/)
-* [Simform Solutions](https://github.com/SimformSolutionsPvtLtd) - Awesome components!
-* [SmartToolFactory](https://github.com/SmartToolFactory) - 🚀 Building colorful and shiny things with Compose(Jetpack Compose Artist🎨).
-* [Canopass](https://github.com/canopas) - We develop amazing products to help entrepreneurs, startups and businesses bring their ideas to life.
 * [Exyte](https://github.com/exyte) - Developers with 5+ years of experience in iOS, Android, and the art of clear communication.
+* [kmm-awesome](https://github.com/terrakok/kmm-awesome) - An awesome list that curates the best KMM libraries, tools and more.
+* [kotlin-swift-interopedia](https://github.com/hhru/kotlin-swift-interopedia) - Kotlin-Swift interopedia.
 * [git-tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
+* [compose-performance](https://github.com/skydoves/compose-performance) - 📚 Curated articles to understand Compose internals and optimize Jetpack Compose performance.
 
 ## Algorithms and DSA
 * [Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) - Design Patterns implemented in Kotlin.
