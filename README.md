@@ -71,7 +71,7 @@
 * [compose-richtext](https://github.com/halilozercan/compose-richtext) - A collection of Compose libraries for advanced text formatting and alternative display types.
 * [multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer) - Markdown renderer for Kotlin Multiplatform Projects (Android, iOS, Desktop), using Compose.
 * [ExtendedSpans](https://github.com/saket/ExtendedSpans) - Squiggly underlines and rounded corners for text in Compose UI.
-* [Calendar](https://github.com/kizitonwose/Calendar) - A highly customizable calendar view and compose library for Android.
+* [Calendar](https://github.com/kizitonwose/Calendar) - A highly customizable calendar view and compose library for Android and Kotlin Multiplatform.
 * [Calendar](https://github.com/WojciechOsak/Calendar) - Kotlin Multiplatform Calendar Library.
 * [compose_multiplatform_date_time_picker](https://github.com/Chaintech-Network/compose_multiplatform_date_time_picker) - Easy Date Picker is a Kotlin Multiplatform library for selecting date and time in your Android or iOS App.
 * [CMPCharts](https://github.com/Chaintech-Network/CMPCharts) - ✨ A very Minimal, Sleek and Lightweight Graph library for Compose Multiplatform.
