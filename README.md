@@ -55,11 +55,13 @@
 * [surmagic](https://github.com/gurhub/surmagic) - 🚀 Command Line Tool to create XCFramework for multiple platforms in one shot!
 * [NFCPassportReader](https://github.com/AndyQ/NFCPassportReader) - NFCPassportReader for iOS 13.
 * [WeScan](https://github.com/WeTransfer/WeScan) - Document Scanning Made Easy for iOS.
+* [NSExceptionKt](https://github.com/rickclephas/NSExceptionKt) - A Kotlin Multiplatform Library to improve crash reports on Apple platforms.
 
 ## Multiplatform
 * [voyager](https://github.com/adrielcafe/voyager) - 🛸 A pragmatic navigation library for Jetpack Compose.
 * [Decompose](https://github.com/arkivanov/Decompose) - Kotlin Multiplatform lifecycle-aware business logic components (aka BLoCs) with routing functionality and pluggable UI (Jetpack Compose, SwiftUI, JS React, etc.)
 * [firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first SDK for Firebase.
+* [KMPNotifier](https://github.com/mirzemehdi/KMPNotifier) - Kotlin Multiplatform Push Notification Library targetting android and iOS.
 * [multiplatform-settings](https://github.com/russhwolf/multiplatform-settings) - A Kotlin Multiplatform library for saving simple key-value data.
 * [KMP-NativeCoroutines](https://github.com/rickclephas/KMP-NativeCoroutines) - Library to use Kotlin Coroutines from Swift code in KMP apps.
 * [KMM-ViewModel](https://github.com/rickclephas/KMM-ViewModel) - Library to share Kotlin ViewModels with SwiftUI.
@@ -76,16 +78,16 @@
 * [compose_multiplatform_date_time_picker](https://github.com/Chaintech-Network/compose_multiplatform_date_time_picker) - Easy Date Picker is a Kotlin Multiplatform library for selecting date and time in your Android or iOS App.
 * [CMPCharts](https://github.com/Chaintech-Network/CMPCharts) - ✨ A very Minimal, Sleek and Lightweight Graph library for Compose Multiplatform.
 * [Path-Power](https://github.com/enmanuel52/Path-Power) - Improve your UI/UX using the full power of Canvas (based on paths under the hood).
-* [Intro-showcase-view](https://github.com/canopas/Intro-showcase-view) - Highlight different features of the app using Jetpack Compose.
-* [Konfetti](https://github.com/DanielMartinus/Konfetti) - Celebrate more with this lightweight confetti particle system.
-* [Pluck](https://github.com/hi-manshu/Pluck) - Pluck, a library that helps you to pick image via Gallery/Camera built using Compose.
+* [sain](https://github.com/joelkanyi/sain) - A Compose Multiplatform library for capturing and exporting signatures as ImageBitmap with customizable options. Perfect for electronic signature, legal documents and more.
 * [pagecurl](https://github.com/oleksandrbalan/pagecurl) - Page Curl library for Jetpack Compose.
-* [Compose-Cropper](https://github.com/SmartToolFactory/Compose-Cropper) - 🚀🏞✂️ Image cropper that can crop with static, dynamic crop behavior, can use customizable shapes, vectors, and other png files as mask to crop with various customizations.
 * [reveal](https://github.com/svenjacobs/reveal) - Reveal effect (coach mark) for Compose Multiplatform targeting Android, iOS, Desktop and Web.
 * [lazytable](https://github.com/oleksandrbalan/lazytable) - Lazy layout to display columns and rows of data on the two directional plane.
 * [tagcloud](https://github.com/oleksandrbalan/tagcloud) - Tag cloud as 3D sphere.
-* [KMPNotifier](https://github.com/mirzemehdi/KMPNotifier) - Kotlin Multiplatform Push Notification Library targetting android and iOS.
-* [sain](https://github.com/joelkanyi/sain) - A Compose Multiplatform library for capturing and exporting signatures as ImageBitmap with customizable options. Perfect for electronic signature, legal documents and more.
+* [lazy-pagination-compose](https://github.com/Ahmad-Hamwi/lazy-pagination-compose) - An intuitive and customizable Compose Multiplatform pagination composables that are built on top of lazy scrollables. Available on Android, iOS, MacOS, Linux, and Web.
+* [zoomimage](https://github.com/panpf/zoomimage) - ZoomImage is a library designed for Compose Multiplatform and Android View for gesture zoom viewing of images, supported scale, pan, locate, rotation, and super-large image subsampling.
+* [blurhash](https://github.com/vanniktech/blurhash) - BlurHash support for iOS, Android and JVM via Kotlin Multiplatform.
+* [compose-placeholder](https://github.com/eygraber/compose-placeholder) - A Compose Multiplatform library which provides a modifier for display 'placeholder' UI while content is loading.
+* [input-mask-compose](https://github.com/Skeptick/input-mask-compose) - Библиотека для форматирования вводимых пользователем значений с поддержкой Compose Multiplatform.
 
 ## Resources
 * [Compose-Multiplatform-Wizard](https://terrakok.github.io/Compose-Multiplatform-Wizard)
