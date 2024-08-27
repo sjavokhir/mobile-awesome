@@ -57,11 +57,8 @@
 * [WeScan](https://github.com/WeTransfer/WeScan) - Document Scanning Made Easy for iOS.
 
 ## Multiplatform
-* [Decompose](https://github.com/arkivanov/Decompose) - Kotlin Multiplatform lifecycle-aware business logic components (aka BLoCs) with routing functionality and pluggable UI (Jetpack Compose, SwiftUI, JS React, etc.)
-* [Decompose-Router](https://github.com/xxfast/Decompose-Router) - A Compose-multiplatform navigation library that leverage Decompose to create an API inspired by Conductor.
 * [voyager](https://github.com/adrielcafe/voyager) - 🛸 A pragmatic navigation library for Jetpack Compose.
-* [Odyssey](https://github.com/AlexGladkov/Odyssey) - Odyssey it's a declarative multiplatform navigation library for Multiplatform Compose.
-* [PreCompose](https://github.com/Tlaster/PreCompose) - Compose Multiplatform Navigation && State Management.
+* [Decompose](https://github.com/arkivanov/Decompose) - Kotlin Multiplatform lifecycle-aware business logic components (aka BLoCs) with routing functionality and pluggable UI (Jetpack Compose, SwiftUI, JS React, etc.)
 * [multiplatform-settings](https://github.com/russhwolf/multiplatform-settings) - A Kotlin Multiplatform library for saving simple key-value data.
 * [KMP-NativeCoroutines](https://github.com/rickclephas/KMP-NativeCoroutines) - Library to use Kotlin Coroutines from Swift code in KMP apps.
 * [KMM-ViewModel](https://github.com/rickclephas/KMM-ViewModel) - Library to share Kotlin ViewModels with SwiftUI.
@@ -78,8 +75,6 @@
 * [Konfetti](https://github.com/DanielMartinus/Konfetti) - Celebrate more with this lightweight confetti particle system.
 * [Pluck](https://github.com/hi-manshu/Pluck) - Pluck, a library that helps you to pick image via Gallery/Camera built using Compose.
 * [pagecurl](https://github.com/oleksandrbalan/pagecurl) - Page Curl library for Jetpack Compose.
-* [appyx](https://github.com/bumble-tech/appyx) - Model-driven navigation for Jetpack Compose
-* [compose-destinations](https://github.com/raamcosta/compose-destinations) - Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.
 * [Compose-Cropper](https://github.com/SmartToolFactory/Compose-Cropper) - 🚀🏞✂️ Image cropper that can crop with static, dynamic crop behavior, can use customizable shapes, vectors, and other png files as mask to crop with various customizations.
 * [Calendar](https://github.com/kizitonwose/Calendar) - A highly customizable calendar view and compose library for Android.
 * [compose-richtext](https://github.com/halilozercan/compose-richtext) - A collection of Compose libraries for advanced text formatting and alternative display types.
