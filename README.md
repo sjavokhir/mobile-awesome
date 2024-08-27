@@ -54,6 +54,8 @@
 * [QRCode](https://github.com/dagronf/QRCode) - A simple drop-in macOS/iOS/tvOS/watchOS QR Code generator view for Swift, Objective-C and SwiftUI.
 * [Pulse](https://github.com/kean/Pulse) - Network Logger for Apple platforms.
 * [surmagic](https://github.com/gurhub/surmagic) - 🚀 Command Line Tool to create XCFramework for multiple platforms in one shot!
+* [NFCPassportReader](https://github.com/AndyQ/NFCPassportReader) - NFCPassportReader for iOS 13.
+* [WeScan](https://github.com/WeTransfer/WeScan) - Document Scanning Made Easy for iOS.
 
 ## Multiplatform
 
