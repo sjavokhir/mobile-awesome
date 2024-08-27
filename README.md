@@ -68,16 +68,19 @@
 * [lyricist](https://github.com/adrielcafe/lyricist) - 🌎 The missing I18N/L10N (internationalization/localization) multiplatform library for Jetpack Compose!
 * [coil-compose](https://coil-kt.github.io/coil/compose/) - An image loading library for Android backed by Kotlin Coroutines.
 * [Compose-Rich-Editor](https://github.com/MohamedRejeb/Compose-Rich-Editor) - A Rich text editor library for both Jetpack Compose and Compose Multiplatform, fully customizable and supports the common rich text editor features.
+* [compose-richtext](https://github.com/halilozercan/compose-richtext) - A collection of Compose libraries for advanced text formatting and alternative display types.
 * [multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer) - Markdown renderer for Kotlin Multiplatform Projects (Android, iOS, Desktop), using Compose.
 * [ExtendedSpans](https://github.com/saket/ExtendedSpans) - Squiggly underlines and rounded corners for text in Compose UI.
-* [Charty](https://github.com/hi-manshu/Charty) - An Elementary Chart library for Jetpack Compose.
+* [Calendar](https://github.com/kizitonwose/Calendar) - A highly customizable calendar view and compose library for Android.
+* [Calendar](https://github.com/WojciechOsak/Calendar) - Kotlin Multiplatform Calendar Library.
+* [compose_multiplatform_date_time_picker](https://github.com/Chaintech-Network/compose_multiplatform_date_time_picker) - Easy Date Picker is a Kotlin Multiplatform library for selecting date and time in your Android or iOS App.
+* [CMPCharts](https://github.com/Chaintech-Network/CMPCharts) - ✨ A very Minimal, Sleek and Lightweight Graph library for Compose Multiplatform.
+* [Path-Power](https://github.com/enmanuel52/Path-Power) - Improve your UI/UX using the full power of Canvas (based on paths under the hood).
 * [Intro-showcase-view](https://github.com/canopas/Intro-showcase-view) - Highlight different features of the app using Jetpack Compose.
 * [Konfetti](https://github.com/DanielMartinus/Konfetti) - Celebrate more with this lightweight confetti particle system.
 * [Pluck](https://github.com/hi-manshu/Pluck) - Pluck, a library that helps you to pick image via Gallery/Camera built using Compose.
 * [pagecurl](https://github.com/oleksandrbalan/pagecurl) - Page Curl library for Jetpack Compose.
 * [Compose-Cropper](https://github.com/SmartToolFactory/Compose-Cropper) - 🚀🏞✂️ Image cropper that can crop with static, dynamic crop behavior, can use customizable shapes, vectors, and other png files as mask to crop with various customizations.
-* [Calendar](https://github.com/kizitonwose/Calendar) - A highly customizable calendar view and compose library for Android.
-* [compose-richtext](https://github.com/halilozercan/compose-richtext) - A collection of Compose libraries for advanced text formatting and alternative display types.
 * [reveal](https://github.com/svenjacobs/reveal) - Reveal effect (coach mark) for Compose Multiplatform targeting Android, iOS, Desktop and Web.
 * [lazytable](https://github.com/oleksandrbalan/lazytable) - Lazy layout to display columns and rows of data on the two directional plane.
 * [tagcloud](https://github.com/oleksandrbalan/tagcloud) - Tag cloud as 3D sphere.
