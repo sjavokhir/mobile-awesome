@@ -25,21 +25,24 @@
 * [android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player) - YouTube Player library for Android and Chromecast, stable and customizable.
 * [Android-BLE-Library](https://github.com/NordicSemiconductor/Android-BLE-Library) - A library that makes working with Bluetooth LE on Android a pleasure. Seriously.
 * [usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android) - Android USB host serial driver library for CDC, FTDI, Arduino and other devices.
-* [detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin.
 * [Glance](https://github.com/guolindev/Glance) - A simple and handy Android database debugging library.
+* [bytemask](https://github.com/PatilShreyas/bytemask) - Android Gradle Plugin that masks secret strings for the app in the source code making it difficult to extract from reverse engineering.
+* [imla](https://github.com/desugar-64/imla) - Hardware-Accelerated Real-time Blur Effect for Android Jetpack Compose.
 
 ### Android samples
 * [compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
 * [nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose.
 * [Jetpack-compose-animations](https://github.com/canopas/Jetpack-compose-animations-examples) - Cool animations implemented with Jetpack compose.
 * [ComposeAnimationsPlayground](https://github.com/Anmol92verma/ComposeAnimationsPlayground) - Jetpack Compose Animations.
-* [Why-Not-Compose](https://github.com/ImaginativeShohag/Why-Not-Compose) - A collection of animations, compositions, UIs using Jetpack Compose. You can say Jetpack Compose cookbook or play-ground if you want!
 * [Equalizer](https://github.com/glureau/Equalizer) - Jetpack Compose equalizer example (see article on glureau.com).
 * [compose-particle-system](https://github.com/CuriousNikhil/compose-particle-system) - A lightweight particle system for Jetpack Compose - Quarks.
 * [k5-compose](https://github.com/CuriousNikhil/k5-compose) - K5-compose is a sketchy port of p5.js for Jetpack Compose Desktop.
 * [compose-schedule-calendar](https://github.com/halilozercan/compose-schedule-calendar) - Demo app for a horizontal schedule(event) calendar.
 * [JetCalendarView](https://github.com/Anmol92verma/JetCalendarView) - Hit Refresh! Calendar view ❤️ Jetpack Compose.
 * [madewithcompose](https://github.com/halilozercan/madewithcompose) - My compose experiments in one convenient location.
+* [TimelineComposeComponent](https://github.com/VitaSokolova/TimelineComposeComponent) - Timeline UI component developed with Jetpack Compose.
+* [ComposePhysicsLayout](https://github.com/KlassenKonstantin/ComposePhysicsLayout) - A custom Compose layout backed by a physics engine.
+* [telephoto](https://github.com/saket/telephoto) - Building blocks for designing media experiences in Compose UI.
 
 ## iOS
 * [PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - A SwiftUI package to beautifully display and handle permissions.
@@ -52,7 +55,6 @@
 * [DeckKit](https://github.com/danielsaidi/DeckKit) - DeckKit makes it easy to create deck-based apps in SwiftUI.
 * [swipeable-cards](https://github.com/Volorf/swipeable-cards) - Swipeable Cards with SwiftUI.
 * [QRCode](https://github.com/dagronf/QRCode) - A simple drop-in macOS/iOS/tvOS/watchOS QR Code generator view for Swift, Objective-C and SwiftUI.
-* [Pulse](https://github.com/kean/Pulse) - Network Logger for Apple platforms.
 * [surmagic](https://github.com/gurhub/surmagic) - 🚀 Command Line Tool to create XCFramework for multiple platforms in one shot!
 * [NFCPassportReader](https://github.com/AndyQ/NFCPassportReader) - NFCPassportReader for iOS 13.
 * [WeScan](https://github.com/WeTransfer/WeScan) - Document Scanning Made Easy for iOS.
