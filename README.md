@@ -65,6 +65,7 @@
 * [multiplatform-settings](https://github.com/russhwolf/multiplatform-settings) - A Kotlin Multiplatform library for saving simple key-value data.
 * [KMP-NativeCoroutines](https://github.com/rickclephas/KMP-NativeCoroutines) - Library to use Kotlin Coroutines from Swift code in KMP apps.
 * [KMM-ViewModel](https://github.com/rickclephas/KMM-ViewModel) - Library to share Kotlin ViewModels with SwiftUI.
+* [compass](https://github.com/jordond/compass) - 🧭 Kotlin Multiplatform library location toolkit for geocoding and geolocation.
 * [compose-cupertino](https://github.com/alexzhirkevich/compose-cupertino) - Compose Multiplatform UI components for iOS (Cupertino Widgets).
 * [Calf](https://github.com/MohamedRejeb/Calf) - Calf is a library that allows you to easily create adaptive UIs for your Compose Multiplatform apps.
 * [lyricist](https://github.com/adrielcafe/lyricist) - 🌎 The missing I18N/L10N (internationalization/localization) multiplatform library for Jetpack Compose!
