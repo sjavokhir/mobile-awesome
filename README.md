@@ -86,6 +86,7 @@
 * [tagcloud](https://github.com/oleksandrbalan/tagcloud) - Tag cloud as 3D sphere.
 * [lazy-pagination-compose](https://github.com/Ahmad-Hamwi/lazy-pagination-compose) - An intuitive and customizable Compose Multiplatform pagination composables that are built on top of lazy scrollables. Available on Android, iOS, MacOS, Linux, and Web.
 * [zoomimage](https://github.com/panpf/zoomimage) - ZoomImage is a library designed for Compose Multiplatform and Android View for gesture zoom viewing of images, supported scale, pan, locate, rotation, and super-large image subsampling.
+* [haze](https://github.com/chrisbanes/haze) - A blurring modifier for Compose Multiplatform / Jetpack Compose.
 * [blurhash](https://github.com/vanniktech/blurhash) - BlurHash support for iOS, Android and JVM via Kotlin Multiplatform.
 * [compose-placeholder](https://github.com/eygraber/compose-placeholder) - A Compose Multiplatform library which provides a modifier for display 'placeholder' UI while content is loading.
 * [input-mask-compose](https://github.com/Skeptick/input-mask-compose) - Библиотека для форматирования вводимых пользователем значений с поддержкой Compose Multiplatform.
