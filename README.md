@@ -25,6 +25,7 @@
 * [Glance](https://github.com/guolindev/Glance) - A simple and handy Android database debugging library.
 * [bytemask](https://github.com/PatilShreyas/bytemask) - Android Gradle Plugin that masks secret strings for the app in the source code making it difficult to extract from reverse engineering.
 * [imla](https://github.com/desugar-64/imla) - Hardware-Accelerated Real-time Blur Effect for Android Jetpack Compose.
+* [secrets-gradle-plugin](https://github.com/google/secrets-gradle-plugin) - A Gradle plugin for providing your secrets to your Android project.
 
 ### Android samples
 * [compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
@@ -40,6 +41,8 @@
 * [TimelineComposeComponent](https://github.com/VitaSokolova/TimelineComposeComponent) - Timeline UI component developed with Jetpack Compose.
 * [ComposePhysicsLayout](https://github.com/KlassenKonstantin/ComposePhysicsLayout) - A custom Compose layout backed by a physics engine.
 * [telephoto](https://github.com/saket/telephoto) - Building blocks for designing media experiences in Compose UI.
+* [metrodroid](https://github.com/metrodroid/metrodroid) - Read data from public transit cards using your NFC Android phone! (iOS 13 and PC/SC support coming soon).
+* [Shukan](https://github.com/eesuhn/Shukan) - Minimalist Habit Tracker.
 
 ## iOS
 * [PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - A SwiftUI package to beautifully display and handle permissions.
@@ -90,6 +93,7 @@
 * [blurhash](https://github.com/vanniktech/blurhash) - BlurHash support for iOS, Android and JVM via Kotlin Multiplatform.
 * [compose-placeholder](https://github.com/eygraber/compose-placeholder) - A Compose Multiplatform library which provides a modifier for display 'placeholder' UI while content is loading.
 * [input-mask-compose](https://github.com/Skeptick/input-mask-compose) - Библиотека для форматирования вводимых пользователем значений с поддержкой Compose Multiplatform.
+* [KmpEssentials](https://github.com/TheArchitect123/KmpEssentials) - KmpEssentials is a library that contains apis (35+ Modules) to accelerate your development. Everything from managing the Battery, File System, getting Package information, or taking Photos. Supports iOS, Android & AppleWatch.
 
 ## Resources
 * [Compose-Multiplatform-Wizard](https://terrakok.github.io/Compose-Multiplatform-Wizard)
@@ -106,14 +110,16 @@
 * [Kotlin-Algorithms-and-Design-Patterns](https://github.com/evitwilly/Kotlin-Algorithms-and-Design-Patterns) - his repository contains the most common algorithms and data structures written in the Kotlin language with simple and concise code.
 * [Leetcode](https://github.com/fishercoder1534/Leetcode) - Solutions to LeetCode problems; updated daily.
 * [AlgoDS](https://github.com/sherxon/AlgoDS) - Implementation of Algorithms and Data Structures, Problems and Solutions.
+* [mobile-system-design](https://github.com/weeeBox/mobile-system-design) - A simple framework for mobile system design interviews.
+* [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
+* [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
 ## Interviews
-* [resume_templates](https://github.com/darhonbek/resume_templates) - Result oriented achievement templates for engineers.
 * [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?".
-* [mobile-system-design](https://github.com/weeeBox/mobile-system-design) - A simple framework for mobile system design interviews.
+* [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 * [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions.
 * [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 * [professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers.
-* [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 * [reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview.
-* [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
+* [resume_templates](https://github.com/darhonbek/resume_templates) - Result oriented achievement templates for engineers.
+* [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️ Companies that don't have a broken hiring process.
