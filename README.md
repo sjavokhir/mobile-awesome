@@ -59,6 +59,7 @@
 * [NFCPassportReader](https://github.com/AndyQ/NFCPassportReader) - NFCPassportReader for iOS 13.
 * [WeScan](https://github.com/WeTransfer/WeScan) - Document Scanning Made Easy for iOS.
 * [NSExceptionKt](https://github.com/rickclephas/NSExceptionKt) - A Kotlin Multiplatform Library to improve crash reports on Apple platforms.
+* [SwiftySound](https://github.com/adamcichy/SwiftySound) - SwiftySound is a simple library that lets you play sounds with a single line of code.
 
 ## Multiplatform
 * [voyager](https://github.com/adrielcafe/voyager) - 🛸 A pragmatic navigation library for Jetpack Compose.
@@ -104,6 +105,7 @@
 * [kotlin-swift-interopedia](https://github.com/hhru/kotlin-swift-interopedia) - Kotlin-Swift interopedia.
 * [git-tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 * [compose-performance](https://github.com/skydoves/compose-performance) - 📚 Curated articles to understand Compose internals and optimize Jetpack Compose performance.
+* [Kastro](https://github.com/yoxjames/Kastro) - A Kotlin Multiplatform library for calculating information about the sun and moon.
 
 ## Algorithms and DSA
 * [Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) - Design Patterns implemented in Kotlin.
