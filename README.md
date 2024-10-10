@@ -13,7 +13,7 @@
 
 ##  Android
 
-### Android view libraries
+### Android libraries
 * [Compressor](https://github.com/zetbaitsu/Compressor) - An android image compression library.
 * [LightCompressor](https://github.com/AbedElazizShe/LightCompressor) - A powerful and easy-to-use video compression library for android uses MediaCodec API.
 * [PDFCreatorAndroid](https://github.com/tejpratap46/PDFCreatorAndroid) - Simple library to generate and view PDF in Android.
@@ -26,6 +26,7 @@
 * [bytemask](https://github.com/PatilShreyas/bytemask) - Android Gradle Plugin that masks secret strings for the app in the source code making it difficult to extract from reverse engineering.
 * [imla](https://github.com/desugar-64/imla) - Hardware-Accelerated Real-time Blur Effect for Android Jetpack Compose.
 * [secrets-gradle-plugin](https://github.com/google/secrets-gradle-plugin) - A Gradle plugin for providing your secrets to your Android project.
+* [Balloon](https://github.com/skydoves/Balloon) - 🎈 Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Android.
 
 ### Android samples
 * [compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
@@ -76,6 +77,7 @@
 * [coil-compose](https://coil-kt.github.io/coil/compose/) - An image loading library for Android backed by Kotlin Coroutines.
 * [Compose-Rich-Editor](https://github.com/MohamedRejeb/Compose-Rich-Editor) - A Rich text editor library for both Jetpack Compose and Compose Multiplatform, fully customizable and supports the common rich text editor features.
 * [compose-richtext](https://github.com/halilozercan/compose-richtext) - A collection of Compose libraries for advanced text formatting and alternative display types.
+* [texty](https://github.com/ArjunJadeja/texty) - A Compose Multiplatform Library to display text with various styles, effects and animations.
 * [multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer) - Markdown renderer for Kotlin Multiplatform Projects (Android, iOS, Desktop), using Compose.
 * [ExtendedSpans](https://github.com/saket/ExtendedSpans) - Squiggly underlines and rounded corners for text in Compose UI.
 * [Calendar](https://github.com/kizitonwose/Calendar) - A highly customizable calendar view and compose library for Android and Kotlin Multiplatform.
