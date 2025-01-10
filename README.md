@@ -59,8 +59,9 @@
 * [surmagic](https://github.com/gurhub/surmagic) - 🚀 Command Line Tool to create XCFramework for multiple platforms in one shot!
 * [NFCPassportReader](https://github.com/AndyQ/NFCPassportReader) - NFCPassportReader for iOS 13.
 * [WeScan](https://github.com/WeTransfer/WeScan) - Document Scanning Made Easy for iOS.
-* [NSExceptionKt](https://github.com/rickclephas/NSExceptionKt) - A Kotlin Multiplatform Library to improve crash reports on Apple platforms.
 * [SwiftySound](https://github.com/adamcichy/SwiftySound) - SwiftySound is a simple library that lets you play sounds with a single line of code.
+* [youtube-ios-player-helper](https://github.com/youtube/youtube-ios-player-helper) - Lightweight helper library that allows iOS developers to add inline playback of YouTube videos through a WebView.
+* [AudioKit](https://github.com/AudioKit/AudioKit) - Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS.
 
 ## Multiplatform
 * [voyager](https://github.com/adrielcafe/voyager) - 🛸 A pragmatic navigation library for Jetpack Compose.
@@ -97,6 +98,8 @@
 * [compose-placeholder](https://github.com/eygraber/compose-placeholder) - A Compose Multiplatform library which provides a modifier for display 'placeholder' UI while content is loading.
 * [input-mask-compose](https://github.com/Skeptick/input-mask-compose) - Библиотека для форматирования вводимых пользователем значений с поддержкой Compose Multiplatform.
 * [KmpEssentials](https://github.com/TheArchitect123/KmpEssentials) - KmpEssentials is a library that contains apis (35+ Modules) to accelerate your development. Everything from managing the Battery, File System, getting Package information, or taking Photos. Supports iOS, Android & AppleWatch.
+* [NSExceptionKt](https://github.com/rickclephas/NSExceptionKt) - A Kotlin Multiplatform Library to improve crash reports on Apple platforms.
+* [cryptography-kotlin](https://github.com/whyoleg/cryptography-kotlin) - Kotlin Multiplatform cryptography / crypto library.
 
 ## Resources
 * [Compose-Multiplatform-Wizard](https://terrakok.github.io/Compose-Multiplatform-Wizard)
