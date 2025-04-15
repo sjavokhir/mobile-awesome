@@ -66,6 +66,7 @@
 
 ## Multiplatform
 * [voyager](https://github.com/adrielcafe/voyager) - 🛸 A pragmatic navigation library for Jetpack Compose.
+* [vortex](https://github.com/hristogochev/vortex) - 🌀 Stability-focused Compose Multiplatform Navigation Library, fork of Voyager.
 * [Decompose](https://github.com/arkivanov/Decompose) - Kotlin Multiplatform lifecycle-aware business logic components (aka BLoCs) with routing functionality and pluggable UI (Jetpack Compose, SwiftUI, JS React, etc.)
 * [firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first SDK for Firebase.
 * [KMPNotifier](https://github.com/mirzemehdi/KMPNotifier) - Kotlin Multiplatform Push Notification Library targetting android and iOS.
@@ -101,6 +102,8 @@
 * [KmpEssentials](https://github.com/TheArchitect123/KmpEssentials) - KmpEssentials is a library that contains apis (35+ Modules) to accelerate your development. Everything from managing the Battery, File System, getting Package information, or taking Photos. Supports iOS, Android & AppleWatch.
 * [NSExceptionKt](https://github.com/rickclephas/NSExceptionKt) - A Kotlin Multiplatform Library to improve crash reports on Apple platforms.
 * [cryptography-kotlin](https://github.com/whyoleg/cryptography-kotlin) - Kotlin Multiplatform cryptography / crypto library.
+* [meeseeks](https://github.com/matt-ramotar/meeseeks) - A Kotlin Multiplatform library for scheduling and managing background tasks.
+* [FileKit](https://github.com/vinceglb/FileKit) - Pick and save Files, Medias and Folder for Kotlin Multiplatform / KMP and Compose Multiplatform / CMP.
 
 ## Resources
 * [Compose-Multiplatform-Wizard](https://terrakok.github.io/Compose-Multiplatform-Wizard)
