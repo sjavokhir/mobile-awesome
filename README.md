@@ -27,6 +27,7 @@
 * [imla](https://github.com/desugar-64/imla) - Hardware-Accelerated Real-time Blur Effect for Android Jetpack Compose.
 * [secrets-gradle-plugin](https://github.com/google/secrets-gradle-plugin) - A Gradle plugin for providing your secrets to your Android project.
 * [Balloon](https://github.com/skydoves/Balloon) - 🎈 Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Android.
+* [Ackpine](https://github.com/solrudev/Ackpine) - Android package installer library.
 
 ### Android samples
 * [compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
@@ -115,6 +116,7 @@
 ## Algorithms and DSA
 * [Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) - Design Patterns implemented in Kotlin.
 * [Kotlin-Algorithms-and-Design-Patterns](https://github.com/evitwilly/Kotlin-Algorithms-and-Design-Patterns) - his repository contains the most common algorithms and data structures written in the Kotlin language with simple and concise code.
+* [kotlin-algorithm-club](https://github.com/bmaslakov/kotlin-algorithm-club) - Algorithms and data structures in Kotlin.
 * [Leetcode](https://github.com/fishercoder1534/Leetcode) - Solutions to LeetCode problems; updated daily.
 * [AlgoDS](https://github.com/sherxon/AlgoDS) - Implementation of Algorithms and Data Structures, Problems and Solutions.
 * [mobile-system-design](https://github.com/weeeBox/mobile-system-design) - A simple framework for mobile system design interviews.
@@ -130,3 +132,4 @@
 * [reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview.
 * [resume_templates](https://github.com/darhonbek/resume_templates) - Result oriented achievement templates for engineers.
 * [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️ Companies that don't have a broken hiring process.
+* [path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond.
