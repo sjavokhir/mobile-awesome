@@ -49,6 +49,7 @@
 ## iOS
 * [surmagic](https://github.com/gurhub/surmagic) - 🚀 Command Line Tool to create XCFramework for multiple platforms in one shot!
 * [spm4Kmp](https://github.com/frankois944/spm4Kmp) - SPM For KMP: Use Apple Swift packages and sources in a KMP project.
+* [NSExceptionKt](https://github.com/rickclephas/NSExceptionKt) - A Kotlin Multiplatform Library to improve crash reports on Apple platforms.
 * [Connectivity](https://github.com/rwbutler/Connectivity) - 🌐 Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.
 * [QRCode](https://github.com/dagronf/QRCode) - A simple drop-in macOS/iOS/tvOS/watchOS QR Code generator view for Swift, Objective-C and SwiftUI.
 * [NFCPassportReader](https://github.com/AndyQ/NFCPassportReader) - NFCPassportReader for iOS 13.
@@ -60,12 +61,11 @@
 ## Multiplatform
 * [voyager](https://github.com/adrielcafe/voyager) - 🛸 A pragmatic navigation library for Jetpack Compose.
 * [firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first SDK for Firebase.
-* [KMPNotifier](https://github.com/mirzemehdi/KMPNotifier) - Kotlin Multiplatform Push Notification Library targetting android and iOS.
-* [alarmee](https://github.com/Tweener/alarmee) - A Kotlin/Compose Multiplatform library to schedule alarms, display local notifications, and handle push notifications on Android and iOS.
 * [multiplatform-settings](https://github.com/russhwolf/multiplatform-settings) - A Kotlin Multiplatform library for saving simple key-value data.
-* [compass](https://github.com/jordond/compass) - 🧭 Kotlin Multiplatform library location toolkit for geocoding and geolocation.
 * [lyricist](https://github.com/adrielcafe/lyricist) - 🌎 The missing I18N/L10N (internationalization/localization) multiplatform library for Jetpack Compose!
 * [coil-compose](https://coil-kt.github.io/coil/compose/) - An image loading library for Android backed by Kotlin Coroutines.
+* [sketch](https://github.com/panpf/sketch) - Sketch is an image loading library designed for Compose Multiplatform and Android View. It is powerful and rich in functions. In addition to basic functions, it also supports GIF, SVG, video thumbnails, Exif Orientation, etc.
+* [zoomimage](https://github.com/panpf/zoomimage) - ZoomImage is a library designed for Compose Multiplatform and Android View for gesture zoom viewing of images, supported scale, pan, locate, rotation, and super-large image subsampling.
 * [Compose-Rich-Editor](https://github.com/MohamedRejeb/Compose-Rich-Editor) - A Rich text editor library for both Jetpack Compose and Compose Multiplatform, fully customizable and supports the common rich text editor features.
 * [compose-richtext](https://github.com/halilozercan/compose-richtext) - A collection of Compose libraries for advanced text formatting and alternative display types.
 * [texty](https://github.com/ArjunJadeja/texty) - A Compose Multiplatform Library to display text with various styles, effects and animations.
@@ -77,21 +77,25 @@
 * [CMPCharts](https://github.com/Chaintech-Network/CMPCharts) - ✨ A very Minimal, Sleek and Lightweight Graph library for Compose Multiplatform.
 * [Path-Power](https://github.com/enmanuel52/Path-Power) - Improve your UI/UX using the full power of Canvas (based on paths under the hood).
 * [sain](https://github.com/joelkanyi/sain) - A Compose Multiplatform library for capturing and exporting signatures as ImageBitmap with customizable options. Perfect for electronic signature, legal documents and more.
-* [pagecurl](https://github.com/oleksandrbalan/pagecurl) - Page Curl library for Jetpack Compose.
 * [reveal](https://github.com/svenjacobs/reveal) - Reveal effect (coach mark) for Compose Multiplatform targeting Android, iOS, Desktop and Web.
+* [pagecurl](https://github.com/oleksandrbalan/pagecurl) - Page Curl library for Jetpack Compose.
 * [lazytable](https://github.com/oleksandrbalan/lazytable) - Lazy layout to display columns and rows of data on the two directional plane.
 * [tagcloud](https://github.com/oleksandrbalan/tagcloud) - Tag cloud as 3D sphere.
-* [lazy-pagination-compose](https://github.com/Ahmad-Hamwi/lazy-pagination-compose) - An intuitive and customizable Compose Multiplatform pagination composables that are built on top of lazy scrollables. Available on Android, iOS, MacOS, Linux, and Web.
-* [zoomimage](https://github.com/panpf/zoomimage) - ZoomImage is a library designed for Compose Multiplatform and Android View for gesture zoom viewing of images, supported scale, pan, locate, rotation, and super-large image subsampling.
 * [haze](https://github.com/chrisbanes/haze) - A blurring modifier for Compose Multiplatform / Jetpack Compose.
 * [blurhash](https://github.com/vanniktech/blurhash) - BlurHash support for iOS, Android and JVM via Kotlin Multiplatform.
 * [compose-placeholder](https://github.com/eygraber/compose-placeholder) - A Compose Multiplatform library which provides a modifier for display 'placeholder' UI while content is loading.
+* [animate-compose](https://github.com/nomanr/animate-compose) - Build and copy compose animations.
 * [input-mask-compose](https://github.com/Skeptick/input-mask-compose) - Библиотека для форматирования вводимых пользователем значений с поддержкой Compose Multiplatform.
-* [KmpEssentials](https://github.com/TheArchitect123/KmpEssentials) - KmpEssentials is a library that contains apis (35+ Modules) to accelerate your development. Everything from managing the Battery, File System, getting Package information, or taking Photos. Supports iOS, Android & AppleWatch.
-* [NSExceptionKt](https://github.com/rickclephas/NSExceptionKt) - A Kotlin Multiplatform Library to improve crash reports on Apple platforms.
 * [cryptography-kotlin](https://github.com/whyoleg/cryptography-kotlin) - Kotlin Multiplatform cryptography / crypto library.
+* [KmpEssentials](https://github.com/TheArchitect123/KmpEssentials) - KmpEssentials is a library that contains apis (35+ Modules) to accelerate your development. Everything from managing the Battery, File System, getting Package information, or taking Photos. Supports iOS, Android & AppleWatch.
+* [KMPNotifier](https://github.com/mirzemehdi/KMPNotifier) - Kotlin Multiplatform Push Notification Library targetting android and iOS.
+* [alarmee](https://github.com/Tweener/alarmee) - A Kotlin/Compose Multiplatform library to schedule alarms, display local notifications, and handle push notifications on Android and iOS.
+* [compass](https://github.com/jordond/compass) - 🧭 Kotlin Multiplatform library location toolkit for geocoding and geolocation.
 * [meeseeks](https://github.com/matt-ramotar/meeseeks) - A Kotlin Multiplatform library for scheduling and managing background tasks.
 * [FileKit](https://github.com/vinceglb/FileKit) - Pick and save Files, Medias and Folder for Kotlin Multiplatform / KMP and Compose Multiplatform / CMP.
+* [KSensor](https://github.com/shadmanadman/KSensor) - A KMP library that provides Sensors info for both Android and iOS.
+* [KDownloadFiles](https://github.com/the-best-is-best/KDownloadFiles) - KDownloadFiles is a simple yet powerful Kotlin Multiplatform library that enables downloading files over HTTP with support for custom headers, saving them locally, and opening them using the system’s default app — all while abstracting away platform-specific details.
+* [Axer](https://github.com/orioneee/Axer) - Axer is a lightweight Kotlin Multiplatform debugging library that provides real‑time HTTP monitoring (Ktor & OkHttp), crash and exception capturing, live Room database inspection, and built‑in logging —all in one.
 
 ## Resources
 * [koog](https://github.com/JetBrains/koog) - Koog is a Kotlin-based framework designed to build and run AI agents entirely in idiomatic Kotlin.
