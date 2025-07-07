@@ -8,7 +8,7 @@
 - [iOS](#ios)
 - [Multiplatform](#multiplatform)
 - [Resources](#resources)
-- [Algorithms and DSA](#algorithms-and-dsa)
+- [DSA and System Design](#dsa-and-system-design)
 - [Interview](#interviews)
 
 ##  Android
@@ -18,20 +18,21 @@
 * [LightCompressor](https://github.com/AbedElazizShe/LightCompressor) - A powerful and easy-to-use video compression library for android uses MediaCodec API.
 * [PDFCreatorAndroid](https://github.com/tejpratap46/PDFCreatorAndroid) - Simple library to generate and view PDF in Android.
 * [AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer) - Android view for displaying PDFs rendered with PdfiumAndroid.
+* [Pdf-Viewer](https://github.com/afreakyelf/Pdf-Viewer) - A Lightweight PDF Viewer Android library which only occupies around 80kb while most of the Pdf viewer occupies up to 16MB space.
 * [kotlin-csv](https://github.com/doyaaaaaken/kotlin-csv) - Pure Kotlin CSV Reader/Writer.
 * [android-youtube-player](https://github.com/PierfrancescoSoffritti/android-youtube-player) - YouTube Player library for Android and Chromecast, stable and customizable.
 * [Android-BLE-Library](https://github.com/NordicSemiconductor/Android-BLE-Library) - A library that makes working with Bluetooth LE on Android a pleasure. Seriously.
 * [usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android) - Android USB host serial driver library for CDC, FTDI, Arduino and other devices.
-* [Glance](https://github.com/guolindev/Glance) - A simple and handy Android database debugging library.
-* [bytemask](https://github.com/PatilShreyas/bytemask) - Android Gradle Plugin that masks secret strings for the app in the source code making it difficult to extract from reverse engineering.
 * [imla](https://github.com/desugar-64/imla) - Hardware-Accelerated Real-time Blur Effect for Android Jetpack Compose.
-* [secrets-gradle-plugin](https://github.com/google/secrets-gradle-plugin) - A Gradle plugin for providing your secrets to your Android project.
 * [Balloon](https://github.com/skydoves/Balloon) - 🎈 Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Android.
+* [Glance](https://github.com/guolindev/Glance) - A simple and handy Android database debugging library.
 * [Ackpine](https://github.com/solrudev/Ackpine) - Android package installer library.
+* [secrets-gradle-plugin](https://github.com/google/secrets-gradle-plugin) - A Gradle plugin for providing your secrets to your Android project.
+* [bytemask](https://github.com/PatilShreyas/bytemask) - Android Gradle Plugin that masks secret strings for the app in the source code making it difficult to extract from reverse engineering.
 
 ### Android samples
 * [compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
-* [nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose.
+* [madewithcompose](https://github.com/halilozercan/madewithcompose) - My compose experiments in one convenient location.
 * [Jetpack-compose-animations](https://github.com/canopas/Jetpack-compose-animations-examples) - Cool animations implemented with Jetpack compose.
 * [ComposeAnimationsPlayground](https://github.com/Anmol92verma/ComposeAnimationsPlayground) - Jetpack Compose Animations.
 * [Equalizer](https://github.com/glureau/Equalizer) - Jetpack Compose equalizer example (see article on glureau.com).
@@ -39,7 +40,6 @@
 * [k5-compose](https://github.com/CuriousNikhil/k5-compose) - K5-compose is a sketchy port of p5.js for Jetpack Compose Desktop.
 * [compose-schedule-calendar](https://github.com/halilozercan/compose-schedule-calendar) - Demo app for a horizontal schedule(event) calendar.
 * [JetCalendarView](https://github.com/Anmol92verma/JetCalendarView) - Hit Refresh! Calendar view ❤️ Jetpack Compose.
-* [madewithcompose](https://github.com/halilozercan/madewithcompose) - My compose experiments in one convenient location.
 * [TimelineComposeComponent](https://github.com/VitaSokolova/TimelineComposeComponent) - Timeline UI component developed with Jetpack Compose.
 * [ComposePhysicsLayout](https://github.com/KlassenKonstantin/ComposePhysicsLayout) - A custom Compose layout backed by a physics engine.
 * [telephoto](https://github.com/saket/telephoto) - Building blocks for designing media experiences in Compose UI.
@@ -67,12 +67,9 @@
 ## Multiplatform
 * [voyager](https://github.com/adrielcafe/voyager) - 🛸 A pragmatic navigation library for Jetpack Compose.
 * [vortex](https://github.com/hristogochev/vortex) - 🌀 Stability-focused Compose Multiplatform Navigation Library, fork of Voyager.
-* [Decompose](https://github.com/arkivanov/Decompose) - Kotlin Multiplatform lifecycle-aware business logic components (aka BLoCs) with routing functionality and pluggable UI (Jetpack Compose, SwiftUI, JS React, etc.)
 * [firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first SDK for Firebase.
 * [KMPNotifier](https://github.com/mirzemehdi/KMPNotifier) - Kotlin Multiplatform Push Notification Library targetting android and iOS.
 * [multiplatform-settings](https://github.com/russhwolf/multiplatform-settings) - A Kotlin Multiplatform library for saving simple key-value data.
-* [KMP-NativeCoroutines](https://github.com/rickclephas/KMP-NativeCoroutines) - Library to use Kotlin Coroutines from Swift code in KMP apps.
-* [KMM-ViewModel](https://github.com/rickclephas/KMM-ViewModel) - Library to share Kotlin ViewModels with SwiftUI.
 * [compass](https://github.com/jordond/compass) - 🧭 Kotlin Multiplatform library location toolkit for geocoding and geolocation.
 * [compose-cupertino](https://github.com/alexzhirkevich/compose-cupertino) - Compose Multiplatform UI components for iOS (Cupertino Widgets).
 * [Calf](https://github.com/MohamedRejeb/Calf) - Calf is a library that allows you to easily create adaptive UIs for your Compose Multiplatform apps.
@@ -116,7 +113,7 @@
 * [compose-performance](https://github.com/skydoves/compose-performance) - 📚 Curated articles to understand Compose internals and optimize Jetpack Compose performance.
 * [Kastro](https://github.com/yoxjames/Kastro) - A Kotlin Multiplatform library for calculating information about the sun and moon.
 
-## Algorithms and DSA
+## DSA and System Design
 * [Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) - Design Patterns implemented in Kotlin.
 * [Kotlin-Algorithms-and-Design-Patterns](https://github.com/evitwilly/Kotlin-Algorithms-and-Design-Patterns) - his repository contains the most common algorithms and data structures written in the Kotlin language with simple and concise code.
 * [kotlin-algorithm-club](https://github.com/bmaslakov/kotlin-algorithm-club) - Algorithms and data structures in Kotlin.
