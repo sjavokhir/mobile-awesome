@@ -3,7 +3,7 @@
 
 ### Content
 - [Android](#android)
-    - [Android view libraries](#android-view-libraries) 
+    - [Libraries](#android-libraries) 
     - [Samples](#android-samples)
 - [iOS](#ios)
 - [Multiplatform](#multiplatform)
