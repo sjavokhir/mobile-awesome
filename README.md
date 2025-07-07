@@ -96,15 +96,12 @@
 * [FileKit](https://github.com/vinceglb/FileKit) - Pick and save Files, Medias and Folder for Kotlin Multiplatform / KMP and Compose Multiplatform / CMP.
 
 ## Resources
+* [koog](https://github.com/JetBrains/koog) - Koog is a Kotlin-based framework designed to build and run AI agents entirely in idiomatic Kotlin.
 * [Compose-Multiplatform-Wizard](https://terrakok.github.io/Compose-Multiplatform-Wizard)
 * [kobweb](https://github.com/varabyte/kobweb) - A modern framework for full stack web apps in Kotlin, built upon Compose HTML.
-* [IceRock Development](https://github.com/icerockdev) - Kotlin Multiplatform developers team.
-* [Exyte](https://github.com/exyte) - Developers with 5+ years of experience in iOS, Android, and the art of clear communication.
 * [kmm-awesome](https://github.com/terrakok/kmm-awesome) - An awesome list that curates the best KMM libraries, tools and more.
 * [kotlin-swift-interopedia](https://github.com/hhru/kotlin-swift-interopedia) - Kotlin-Swift interopedia.
 * [git-tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
-* [compose-performance](https://github.com/skydoves/compose-performance) - 📚 Curated articles to understand Compose internals and optimize Jetpack Compose performance.
-* [Kastro](https://github.com/yoxjames/Kastro) - A Kotlin Multiplatform library for calculating information about the sun and moon.
 
 ## DSA and System Design
 * [Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) - Design Patterns implemented in Kotlin.
