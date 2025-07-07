@@ -47,17 +47,10 @@
 * [Shukan](https://github.com/eesuhn/Shukan) - Minimalist Habit Tracker.
 
 ## iOS
-* [PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - A SwiftUI package to beautifully display and handle permissions.
-* [ElegantCalendar](https://github.com/ThasianX/ElegantCalendar) - The elegant full screen calendar missed in SwiftUI.
-* [Connectivity](https://github.com/rwbutler/Connectivity) - 🌐 Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.
-* [SwiftUICharts](https://github.com/mecid/SwiftUICharts) - A simple line and bar charting library that supports accessibility written using SwiftUI.
-* [DSFSparkline](https://github.com/dagronf/DSFSparkline) - A lightweight sparkline component for macOS, iOS and tvOS.
-* [AlertToast](https://github.com/elai950/AlertToast) - Create Apple-like alerts & toasts using SwiftUI.
-* [ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI) - SwiftUI Package for Configurable Confetti Animation 🎉.
-* [DeckKit](https://github.com/danielsaidi/DeckKit) - DeckKit makes it easy to create deck-based apps in SwiftUI.
-* [swipeable-cards](https://github.com/Volorf/swipeable-cards) - Swipeable Cards with SwiftUI.
-* [QRCode](https://github.com/dagronf/QRCode) - A simple drop-in macOS/iOS/tvOS/watchOS QR Code generator view for Swift, Objective-C and SwiftUI.
 * [surmagic](https://github.com/gurhub/surmagic) - 🚀 Command Line Tool to create XCFramework for multiple platforms in one shot!
+* [spm4Kmp](https://github.com/frankois944/spm4Kmp) - SPM For KMP: Use Apple Swift packages and sources in a KMP project.
+* [Connectivity](https://github.com/rwbutler/Connectivity) - 🌐 Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.
+* [QRCode](https://github.com/dagronf/QRCode) - A simple drop-in macOS/iOS/tvOS/watchOS QR Code generator view for Swift, Objective-C and SwiftUI.
 * [NFCPassportReader](https://github.com/AndyQ/NFCPassportReader) - NFCPassportReader for iOS 13.
 * [WeScan](https://github.com/WeTransfer/WeScan) - Document Scanning Made Easy for iOS.
 * [SwiftySound](https://github.com/adamcichy/SwiftySound) - SwiftySound is a simple library that lets you play sounds with a single line of code.
