@@ -17,12 +17,12 @@
 * [Compressor](https://github.com/zetbaitsu/Compressor) - An android image compression library.
 * [Video Compressor](https://github.com/JoshAtticus/Compressor) - Lightning fast, ad free, super lightweight native video compressor for Android.
 * [Pdf-Viewer](https://github.com/afreakyelf/Pdf-Viewer) - A Lightweight PDF Viewer Android library which only occupies around 80kb while most of the Pdf viewer occupies up to 16MB space.
-* [kotlin-csv](https://github.com/doyaaaaaken/kotlin-csv) - Pure Kotlin CSV Reader/Writer.
 * [imla](https://github.com/desugar-64/imla) - Hardware-Accelerated Real-time Blur Effect for Android Jetpack Compose.
 * [Balloon](https://github.com/skydoves/Balloon) - 🎈 Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Android.
 * [Glance](https://github.com/guolindev/Glance) - A simple and handy Android database debugging library.
 * [Ackpine](https://github.com/solrudev/Ackpine) - Android package installer library.
 * [kotlin-toolkit](https://github.com/readium/kotlin-toolkit) - A toolkit for ebooks, audiobooks and comics written in Kotlin.
+* [triggerx](https://github.com/meticha/triggerx) - TriggerX is a modular, developer-friendly alarm execution library for Android.
 
 ### Android samples
 * [Equalizer](https://github.com/glureau/Equalizer) - Jetpack Compose equalizer example (see article on glureau.com).
@@ -90,10 +90,13 @@
 ## Resources
 * [koog](https://github.com/JetBrains/koog) - Koog is a Kotlin-based framework designed to build and run AI agents entirely in idiomatic Kotlin.
 * [Compose-Multiplatform-Wizard](https://terrakok.github.io/Compose-Multiplatform-Wizard)
-* [kobweb](https://github.com/varabyte/kobweb) - A modern framework for full stack web apps in Kotlin, built upon Compose HTML.
 * [kmm-awesome](https://github.com/terrakok/kmm-awesome) - An awesome list that curates the best KMM libraries, tools and more.
 * [kotlin-swift-interopedia](https://github.com/hhru/kotlin-swift-interopedia) - Kotlin-Swift interopedia.
 * [git-tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
+* [til](https://github.com/jbranchaud/til) - 📝 Today I Learned.
+* [professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers.
+* [path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond.
+* [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?".
 
 ## DSA and System Design
 * [Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) - Design Patterns implemented in Kotlin.
@@ -106,12 +109,9 @@
 * [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
 ## Interviews
-* [what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?".
 * [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 * [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions.
 * [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
-* [professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers.
 * [reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview.
 * [resume_templates](https://github.com/darhonbek/resume_templates) - Result oriented achievement templates for engineers.
 * [hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️ Companies that don't have a broken hiring process.
-* [path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond.
