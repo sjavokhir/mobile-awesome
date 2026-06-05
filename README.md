@@ -35,11 +35,11 @@
 * [telephoto](https://github.com/saket/telephoto) - Building blocks for designing media experiences in Compose UI.
 * [metrodroid](https://github.com/metrodroid/metrodroid) - Read data from public transit cards using your NFC Android phone! (iOS 13 and PC/SC support coming soon).
 * [Shukan](https://github.com/eesuhn/Shukan) - Minimalist Habit Tracker.
+* [compose-world](https://github.com/faridGuliyew/compose-world) - CUSTOM COMPOSE COMPONENTS EVERYWHERE!
+* [shadow-pointer](https://github.com/romainguy/shadow-pointer) - Rendering high-quality shadow from the user's finger.
+* [ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options.
 
 ## iOS
-* [surmagic](https://github.com/gurhub/surmagic) - 🚀 Command Line Tool to create XCFramework for multiple platforms in one shot!
-* [spm4Kmp](https://github.com/frankois944/spm4Kmp) - SPM For KMP: Use Apple Swift packages and sources in a KMP project.
-* [NSExceptionKt](https://github.com/rickclephas/NSExceptionKt) - A Kotlin Multiplatform Library to improve crash reports on Apple platforms.
 * [Connectivity](https://github.com/rwbutler/Connectivity) - 🌐 Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.
 * [QRCode](https://github.com/dagronf/QRCode) - A simple drop-in macOS/iOS/tvOS/watchOS QR Code generator view for Swift, Objective-C and SwiftUI.
 * [NFCPassportReader](https://github.com/AndyQ/NFCPassportReader) - NFCPassportReader for iOS 13.
@@ -47,14 +47,10 @@
 * [SwiftySound](https://github.com/adamcichy/SwiftySound) - SwiftySound is a simple library that lets you play sounds with a single line of code.
 * [youtube-ios-player-helper](https://github.com/youtube/youtube-ios-player-helper) - Lightweight helper library that allows iOS developers to add inline playback of YouTube videos through a WebView.
 * [AudioKit](https://github.com/AudioKit/AudioKit) - Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS.
+* [swift-toolkit](https://github.com/readium/swift-toolkit) - A toolkit for ebooks, audiobooks and comics written in Swift.
 
 ## Multiplatform
-* [voyager](https://github.com/adrielcafe/voyager) - 🛸 A pragmatic navigation library for Jetpack Compose.
-* [firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk) - A Kotlin-first SDK for Firebase.
-* [multiplatform-settings](https://github.com/russhwolf/multiplatform-settings) - A Kotlin Multiplatform library for saving simple key-value data.
 * [lyricist](https://github.com/adrielcafe/lyricist) - 🌎 The missing I18N/L10N (internationalization/localization) multiplatform library for Jetpack Compose!
-* [coil-compose](https://coil-kt.github.io/coil/compose/) - An image loading library for Android backed by Kotlin Coroutines.
-* [sketch](https://github.com/panpf/sketch) - Sketch is an image loading library designed for Compose Multiplatform and Android View. It is powerful and rich in functions. In addition to basic functions, it also supports GIF, SVG, video thumbnails, Exif Orientation, etc.
 * [zoomimage](https://github.com/panpf/zoomimage) - ZoomImage is a library designed for Compose Multiplatform and Android View for gesture zoom viewing of images, supported scale, pan, locate, rotation, and super-large image subsampling.
 * [Compose-Rich-Editor](https://github.com/MohamedRejeb/Compose-Rich-Editor) - A Rich text editor library for both Jetpack Compose and Compose Multiplatform, fully customizable and supports the common rich text editor features.
 * [compose-richtext](https://github.com/halilozercan/compose-richtext) - A collection of Compose libraries for advanced text formatting and alternative display types.
@@ -86,6 +82,12 @@
 * [KSensor](https://github.com/shadmanadman/KSensor) - A KMP library that provides Sensors info for both Android and iOS.
 * [KDownloadFiles](https://github.com/the-best-is-best/KDownloadFiles) - KDownloadFiles is a simple yet powerful Kotlin Multiplatform library that enables downloading files over HTTP with support for custom headers, saving them locally, and opening them using the system’s default app — all while abstracting away platform-specific details.
 * [Axer](https://github.com/orioneee/Axer) - Axer is a lightweight Kotlin Multiplatform debugging library that provides real‑time HTTP monitoring (Ktor & OkHttp), crash and exception capturing, live Room database inspection, and built‑in logging —all in one.
+* [kotlin-csv](https://github.com/jsoizo/kotlin-csv) - Pure Kotlin CSV Reader/Writer.
+* [liquid](https://github.com/FletchMcKee/liquid) - Liquid RuntimeShader effects for Compose Multiplatform.
+* [KMPLiquidGlass](https://github.com/Kashif-E/KMPLiquidGlass) - A library to create liquid glass components in Compose multiplatform.
+* [compose-webview](https://github.com/parkwoocheol/compose-webview) - A powerful, flexible, and feature-rich WebView wrapper for Jetpack Compose and Compose Multiplatform (Android, iOS, Desktop, Web).
+* [ComposeMediaPlayer](https://github.com/kdroidFilter/ComposeMediaPlayer) - Compose Media Player is a video player library designed for Compose Multiplatform, supporting multiple platforms including Android, macOS, Windows, Linux, iOS and Compose Web.
+* [epub4kmp](https://github.com/Wavesonics/epub4kmp) - A kotlin multiplatform library for reading/writing/manipulating EPUB files, with improvements based on epub4j.
 
 ## Resources
 * [koog](https://github.com/JetBrains/koog) - Koog is a Kotlin-based framework designed to build and run AI agents entirely in idiomatic Kotlin.
