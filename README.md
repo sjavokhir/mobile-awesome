@@ -22,12 +22,9 @@
 * [Balloon](https://github.com/skydoves/Balloon) - 🎈 Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Android.
 * [Glance](https://github.com/guolindev/Glance) - A simple and handy Android database debugging library.
 * [Ackpine](https://github.com/solrudev/Ackpine) - Android package installer library.
+* [kotlin-toolkit](https://github.com/readium/kotlin-toolkit) - A toolkit for ebooks, audiobooks and comics written in Kotlin.
 
 ### Android samples
-* [compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
-* [madewithcompose](https://github.com/halilozercan/madewithcompose) - My compose experiments in one convenient location.
-* [Jetpack-compose-animations](https://github.com/canopas/Jetpack-compose-animations-examples) - Cool animations implemented with Jetpack compose.
-* [ComposeAnimationsPlayground](https://github.com/Anmol92verma/ComposeAnimationsPlayground) - Jetpack Compose Animations.
 * [Equalizer](https://github.com/glureau/Equalizer) - Jetpack Compose equalizer example (see article on glureau.com).
 * [compose-particle-system](https://github.com/CuriousNikhil/compose-particle-system) - A lightweight particle system for Jetpack Compose - Quarks.
 * [k5-compose](https://github.com/CuriousNikhil/k5-compose) - K5-compose is a sketchy port of p5.js for Jetpack Compose Desktop.
