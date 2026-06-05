@@ -15,6 +15,7 @@
 
 ### Android libraries
 * [Compressor](https://github.com/zetbaitsu/Compressor) - An android image compression library.
+* [Video Compressor](https://github.com/JoshAtticus/Compressor) - Lightning fast, ad free, super lightweight native video compressor for Android.
 * [LightCompressor](https://github.com/AbedElazizShe/LightCompressor) - A powerful and easy-to-use video compression library for android uses MediaCodec API.
 * [PDFCreatorAndroid](https://github.com/tejpratap46/PDFCreatorAndroid) - Simple library to generate and view PDF in Android.
 * [AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer) - Android view for displaying PDFs rendered with PdfiumAndroid.
@@ -27,8 +28,6 @@
 * [Balloon](https://github.com/skydoves/Balloon) - 🎈 Modernized and sophisticated tooltips, fully customizable with an arrow and animations for Android.
 * [Glance](https://github.com/guolindev/Glance) - A simple and handy Android database debugging library.
 * [Ackpine](https://github.com/solrudev/Ackpine) - Android package installer library.
-* [secrets-gradle-plugin](https://github.com/google/secrets-gradle-plugin) - A Gradle plugin for providing your secrets to your Android project.
-* [bytemask](https://github.com/PatilShreyas/bytemask) - Android Gradle Plugin that masks secret strings for the app in the source code making it difficult to extract from reverse engineering.
 
 ### Android samples
 * [compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
